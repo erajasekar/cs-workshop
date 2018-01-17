@@ -15,7 +15,6 @@ This is Rajasekar Elango, Software Engineer at Salesforce.com
 What are you curious to know about computers?
 
 ---
-
 @title[Introduction to computers]
 
 Are computers smart?
@@ -38,7 +37,6 @@ Are computers smart?
 * Work from anywhere internet is available
 
 ---
-
 @title[Attitudes for programmers]
 
 * Being Lazy
