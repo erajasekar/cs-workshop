@@ -7,7 +7,7 @@
 #theme : beige
 theme-override : assets/css/PITCHME.css
 highlight : hybrid
-logo : assets/image/cms.png&size=100% 100%
+logo : assets/image/cms.png
 transition : none
 published : true
 footnote : "Rajasekar Elango"
