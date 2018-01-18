@@ -48,7 +48,7 @@ So all the videos, music and textual information you see in computers are store 
 
 +++
 
-### Why the modern digital world is based on binary.
+*Why the modern digital world is based on binary.?* 
 
 All the hardware is made from wonderful material *silicon* which is a great semiconductor. It can easily change between stop conducting ( **0** ) and start conducting ( **1** ) electricity through them.
 
@@ -58,7 +58,9 @@ All the hardware is made from wonderful material *silicon* which is a great semi
 
 Software programs are written in language humans can understand and then they are converted into binary that computers can understand to execute them.
 
-> Programming is the act of taking complicated human ideas and breaking them down into simple enough instructions that a computer can understand and follow.
++++
+
+>  Programming is the act of taking complicated human ideas and breaking them down into simple enough instructions that a computer can understand and follow.
 
 Then the computer can perform your idea super-fast for you.
 
