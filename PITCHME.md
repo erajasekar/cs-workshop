@@ -1,4 +1,4 @@
-## What you need to know about Computers and Programming?
+## What you need to know about Computers and Programming Job?
 
 ---
 
@@ -12,6 +12,8 @@ This is Rajasekar Elango, Software Engineer at Salesforce.com
 
 What do you curious to know about computers?
 
+Note: I encourage you to ask whenever you have a question. Please don't hesitage.
+
 ---
 ## What are computers?
 
@@ -20,12 +22,20 @@ What do you curious to know about computers?
 +++
 @title[Essential components of the computers]
 
-###### Essential components of the computers are
+###### A computer essentially has
 
-* `Processor `— that does the real work
+* `Processor `— that does the computational work
 * `Memory` — to store the information
 * `Input interface` — keyboard, touch screen etc
 * `Output interface` — Monitor, Printer
+
++++
+
+## What makes computers a genius invention? 
+
+The general purpose utility of the computers make it do something from adding two numbers to flying an airplane.
+
+Note: It's a musical instrument, but a keyboard or synthesizer.
 
 ---
 
@@ -36,13 +46,14 @@ What do you curious to know about computers?
 @title[Computers are stupid]
 
 Computers are really **stupid**. But it is very *fast*.
+
 Humans is **smart**, but *slow*.
 
 +++
 
 @title[Binary]
 
-Infact, the processors inside the computer can actually understand only 0’s and 1’s - refered as **binary**
+Infact, the processors inside the computer doesn't know anything other than 0’s and 1’s - refered as **binary**
 
 +++
 
@@ -62,13 +73,13 @@ Bytes or Gigabytes is unit for measuring memory just like pounds for weight, oun
 
 +++
 
-### Why the modern digital world is based on binary.?
+### Why the digital world is based on binary.?
 
 +++
 
 @title[Why 0s and 1s?]
 
-All the hardware is made from wonderful material *silicon* which is a great semiconductor. It can easily change between stop conducting ( **0** ) and start conducting ( **1** ) electricity through them.
+All the hardware is made from wonderful material ***silicon*** which is a great semiconductor. It can easily change between stop conducting ( **0** ) and start conducting ( **1** ) electricity through them.
 
 ---
 
@@ -88,15 +99,37 @@ Then the computer can perform your idea super-fast for you.
 
 ---
 
+## Why Software is Eating the World?
+
+Six decades into the computer revolution, four decades since the invention of the microprocessor, and two decades into the rise of the modern Internet, all of the technology required to transform industries through software finally works and can be widely delivered at global scale.
+
++++
+
+## Every Industry is revolutioned by Software
+
+* Finance — Stock market, Paypal
+* Retail — Amazon, online shopping
+* Movies — Animation, Netfix
+* Telecom — Skype
+* Education — Khan Academy, Udemy
+* Healthcare 
+
+Note: The best new movie production company in many decades, Pixar, was a software company. Disney — had to buy Pixar, a software company, to remain relevant in animated movies.
+
+---
+
 ## What is great as being a Software developer?
 
-* Solving problem to make peoples life better
+* Solving problem to make peoples life better.
+* Drives creativity and innovation
 * Creating something out of nothing or building from groud up.
 * No cost of raw materials
 * Work from anywhere internet is available
 
 ---
-@title[Attitudes for programmers]
+## What are the triats for becoming software developer?
+
+@title[Trias of programmers]
 
 * Being Lazy
 * Experimenting and Research
@@ -111,6 +144,5 @@ Then the computer can perform your idea super-fast for you.
 * Deep blue beats Chess Champion Kasparov
 * AlphaGo beating Ke Jie, Go World Champion
 * ​
-
 
 
