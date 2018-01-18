@@ -42,7 +42,7 @@ So all the videos, music and textual information you see in computers are store 
 
 +++
 
-### How many of you know what is `GB` or `MB` mean in iphone or computers?
+### How many of you know what is *GB* or *MB* mean in iphone or computers?
 
 +++
 
