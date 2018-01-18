@@ -2,11 +2,11 @@
 
 ---
 
-## About Me
+## Introduction
 
 This is Rajasekar Elango, Software Engineer at Salesforce.com
 
----
++++
 
 ## About Audience
 
@@ -19,7 +19,7 @@ What do you curious to know about computers?
 
 +++
 
-#### Essential components of the computers are 
+@title[Essential components of the computers are]
 
 * Processor — that does the real work
 
