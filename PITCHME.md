@@ -1,6 +1,4 @@
-# Introduction to Software Developer Job
-
-### What you need to know about Computers and Programming?
+# What you need to know about Computers and Programming?
 
 ---
 

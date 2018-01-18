@@ -8,6 +8,6 @@
 theme-override : assets/css/PITCHME.css
 highlight : hybrid
 logo : assets/image/cms.png
-transition : fade
+transition : slide
 #published : true
 footnote : "Rajasekar Elango"
