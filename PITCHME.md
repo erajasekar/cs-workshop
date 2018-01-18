@@ -30,26 +30,28 @@ Essential components of the computers are
 
 ## Are computers smart?
 
----
++++
 
 Computers are really **stupid**. But it is very *fast*.
 Humans is **smart**, but *slow*.
 
++++
+
 Infact, the processors inside the computer can actually understand only 0’s and 1’s - refered as **binary**
 
----
-
-@title[00101010101010100]
++++
 
 So all the videos, music and textual information you see in computers are store as just 0’s and 1’s in hardware. 
 
++++
+
 *How many of you know what is GB or MB mean in iphone or computers?* 
 
-Bytes or Gigabytes is unit for measuring memory just like pounds for weight, ounces for liquid etc.
+`Bytes` or `Gigabytes` is unit for measuring memory just like pounds for weight, ounces for liquid etc.
 
----
++++
 
-## Why the modern digital world is based on binary. 
+### Why the modern digital world is based on binary.
 
 All the hardware is made from wonderful material *silicon* which is a great semiconductor. It can easily change between stop conducting ( **0** ) and start conducting ( **1** ) electricity through them.
 
