@@ -1,4 +1,4 @@
-# What you need to know about Computers and Programming?
+## What you need to know about Computers and Programming?
 
 ---
 
@@ -20,9 +20,9 @@ What do you curious to know about computers?
 +++
 @title[Essential components of the computers]
 
-##### Essential components of the computers are
+###### Essential components of the computers are
 
-* Processor — that does the real work
+* `Processor `— that does the real work
 * Memory — to store the information
 * Input interface — keyboard, touch screen etc
 * Output interface — Monitor, Printer
@@ -32,6 +32,8 @@ What do you curious to know about computers?
 ## Are computers smart?
 
 +++
+
+@title[Computers are stupid]
 
 Computers are really **stupid**. But it is very *fast*.
 Humans is **smart**, but *slow*.
@@ -54,6 +56,8 @@ So all the videos, music and textual information you see in computers are store 
 
 +++
 
+@title[What does GB Mean?]
+
 Bytes or Gigabytes is unit for measuring memory just like pounds for weight, ounces for liquid etc.
 
 +++
@@ -62,7 +66,9 @@ Bytes or Gigabytes is unit for measuring memory just like pounds for weight, oun
 
 +++
 
- All the hardware is made from wonderful material *silicon* which is a great semiconductor. It can easily change between stop conducting ( **0** ) and start conducting ( **1** ) electricity through them.
+ @title[Why 0 and 1s?]
+
+All the hardware is made from wonderful material *silicon* which is a great semiconductor. It can easily change between stop conducting ( **0** ) and start conducting ( **1** ) electricity through them.
 
 ---
 
