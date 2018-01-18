@@ -42,15 +42,19 @@ So all the videos, music and textual information you see in computers are store 
 
 +++
 
-*How many of you know what is GB or MB mean in iphone or computers?* 
-
-`Bytes` or `Gigabytes` is unit for measuring memory just like pounds for weight, ounces for liquid etc.
+### How many of you know what is `GB` or `MB` mean in iphone or computers?
 
 +++
 
-*Why the modern digital world is based on binary.?* 
+Bytes or Gigabytes is unit for measuring memory just like pounds for weight, ounces for liquid etc.
 
-All the hardware is made from wonderful material *silicon* which is a great semiconductor. It can easily change between stop conducting ( **0** ) and start conducting ( **1** ) electricity through them.
++++
+
+### Why the modern digital world is based on binary.?
+
++++
+
+ All the hardware is made from wonderful material *silicon* which is a great semiconductor. It can easily change between stop conducting ( **0** ) and start conducting ( **1** ) electricity through them.
 
 ---
 
