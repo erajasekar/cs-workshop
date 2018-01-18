@@ -8,6 +8,8 @@ This is Rajasekar Elango, Software Engineer at Salesforce.com
 
 +++
 
+@title[About Audience]
+
 What do you curious to know about computers?
 
 ---
@@ -16,7 +18,9 @@ What do you curious to know about computers?
 > Computers is a electronic machine that can be programmed to do several types of tasks.
 
 +++
-@title[Essential components of the computers are]
+@title[Essential components of the computers]
+
+##### Essential components of the computers are
 
 * Processor — that does the real work
 * Memory — to store the information
@@ -34,9 +38,13 @@ Humans is **smart**, but *slow*.
 
 +++
 
+@title[Binary]
+
 Infact, the processors inside the computer can actually understand only 0’s and 1’s - refered as **binary**
 
 +++
+
+@title[Binary Storage]
 
 So all the videos, music and textual information you see in computers are store as just 0’s and 1’s in hardware. 
 
@@ -60,9 +68,13 @@ Bytes or Gigabytes is unit for measuring memory just like pounds for weight, oun
 
 ## What is programming?
 
+@title[What is software?]
+
 Software programs are written in language humans can understand and then they are converted into binary that computers can understand to execute them.
 
 +++
+
+@title[What is Programming?]
 
 >  Programming is the act of taking complicated human ideas and breaking them down into simple enough instructions that a computer can understand and follow.
 
