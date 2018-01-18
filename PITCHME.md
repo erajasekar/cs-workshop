@@ -19,9 +19,13 @@ What do you curious to know about computers?
 
 > Computers is a electronic machine that can be programmed to do several types of tasks.
 
-Essential components of the computers are 
++++
+
+#### Essential components of the computers are 
 
 * Processor — that does the real work
+
+
 * Memory — to store the information
 * Input interface — keyboard, touch screen etc
 * Output interface — Monitor, Printer
