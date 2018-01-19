@@ -105,7 +105,15 @@ Software programs are written in language humans can understand and then they ar
 
 ## Why Software is Eating the World?
 
-Six decades into the computer revolution, four decades since the invention of the microprocessor, and two decades into the rise of the modern Internet, all of the technology required to transform industries through software finally works and can be widely delivered at global scale.
+* Six decades into the computer revolution
+
+* Four decades since the invention of the microprocessor
+
+* Two decades into the rise of the modern Internet
+
+  ​
+
+All of the technology required to transform every industry through software possible today.
 
 +++
 
