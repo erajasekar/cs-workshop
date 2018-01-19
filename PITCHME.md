@@ -166,7 +166,7 @@ You will work with a team to build things just like being part of a sport team t
 
 #### Future proof
 
-![Computing Demand](assets/image/STEM-Growth-Aggreg-2024.png&size=auto 90%)
+<img src="assets/image/STEM-Growth-Aggreg-2024.png" alt="Computing Demand" width="500px" height="400px">
 
 As per US-BLS projections, computing will be the safest STEM career options for the foreseeable future.
 
