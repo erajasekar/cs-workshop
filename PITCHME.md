@@ -152,7 +152,7 @@ You will solve problems to make people's life better.
 
 #### Impact millions of people quickly
 
-![Computing Demand](assets/image/50-million-angry-bird.png&size=auto 80%)
+<img src="assets/image/50-million-angry-bird.png" alt="impact millions" width="80%" height="80%">
 
 Telephone took 75 years, Internet took 4 years however Angry Birds took only 35 days!!
 
