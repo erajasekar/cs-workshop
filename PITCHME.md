@@ -1,4 +1,6 @@
-# What you need to know about Computers and Programming Job?
+## What you need to know about Computers and Programming Job?
+
+##### How to get started on programming?
 
 ---
 
@@ -17,7 +19,7 @@ Note: I encourage you to ask whenever you have a question. Please don't hesitage
 ---
 ## Are computers smart?
 
-------
++++
 
 @title[Computers are stupid]
 
@@ -25,23 +27,23 @@ Computers are really **stupid**. But it is very *fast*.
 
 Humans are **smart**, but *slow*.
 
-------
++++
 
 @title[Binary]
 
 Infact, the processors inside the computer doesn't know anything other than 0’s and 1’s - refered as **binary**
 
-------
++++
 
 @title[Binary Storage]
 
 So all the videos, music and textual information you see in computers are stored as just 0’s and 1’s in hardware. 
 
-------
++++
 
 ### How many of you know what is GB or MB mean in iphone or computers?
 
-------
++++
 
 @title[What does GB Mean?]
 
@@ -51,17 +53,17 @@ Bytes or Gigabytes is unit for measuring memory just like pounds for weight, oun
 
 Memory capacity in bytes basically tells you how many 0's and 1's it can store.
 
-------
++++
 
 ### Why the digital world is based on binary.?
 
-------
++++
 
 @title[Why 0s and 1s?]
 
 All the hardware is made from wonderful material ***silicon*** which is a great semiconductor. It can easily change between stop conducting ( **0** ) and start conducting ( **1** ) electricity through them.
 
-------
+---
 
 ## What are computers?
 
