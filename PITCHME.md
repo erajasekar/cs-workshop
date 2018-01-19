@@ -14,7 +14,7 @@ This is Rajasekar Elango, Software Engineer at Salesforce.com
 
 What are you curious to know about computers?
 
-Note: I encourage you to ask whenever you have a question. Please don't hesitage.
+Note: I encourage you to ask question whenever you have. Please don't hesitage.
 
 ---
 ## Are computers smart?
@@ -67,7 +67,7 @@ All the hardware is made from wonderful material ***silicon*** which is a great 
 
 ## What are computers?
 
-> Computer is a electronic machine that can be programmed to do jillion different types of tasks.
+> Computer is a electronic machine that can be programmed to do zillion types of tasks.
 
 +++
 @title[Essential components of the computers]
@@ -160,7 +160,7 @@ Telephone took 75 years, Internet took 4 years however Angry Birds took only 35 
 
 #### Colloborative 
 
-You will work with a team to build things just like being part of a sport team to win a game. 
+Software engineering is a team sport and you work together to build amazing things.
 
 +++
 
