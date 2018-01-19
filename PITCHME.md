@@ -132,10 +132,32 @@ Note: The best new movie production company in many decades, Pixar, was a softwa
 
 ---
 
-## What is great as being a Software developer?
+## Why being a Software developer is Great?
 
-* Solving problem to make peoples life better.
-* Drives creativity and innovation
+1. Drives creativity and innovation
+
+It's very creative profession much like a musician or a painter.
+
+You create new things that doesn't exist before.
+
++++
+
+2. Make people's life better
+
+You will solve problems to make people's life better.
+
+3. Impact millions of people
+
+![Computing Demand](assets/50-million-angry-bird.png)
+
+4. Colloborative 
+
+
+5. High in demand
+
+![Computing Demand](assets/STEM-Growth-Aggreg-2024.png)
+
+
 * Creating something out of nothing or building from groud up.
 * No cost of raw materials
 * Work from anywhere internet is available
