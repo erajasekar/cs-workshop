@@ -15,9 +15,57 @@ What are you curious to know about computers?
 Note: I encourage you to ask whenever you have a question. Please don't hesitage.
 
 ---
+## Are computers smart?
+
+------
+
+@title[Computers are stupid]
+
+Computers are really **stupid**. But it is very *fast*.
+
+Humans are **smart**, but *slow*.
+
+------
+
+@title[Binary]
+
+Infact, the processors inside the computer doesn't know anything other than 0’s and 1’s - refered as **binary**
+
+------
+
+@title[Binary Storage]
+
+So all the videos, music and textual information you see in computers are stored as just 0’s and 1’s in hardware. 
+
+------
+
+### How many of you know what is GB or MB mean in iphone or computers?
+
+------
+
+@title[What does GB Mean?]
+
+Bytes or Gigabytes is unit for measuring memory just like pounds for weight, ounces for liquid etc.
+
+
+
+Memory capacity in bytes basically tells you how many 0's and 1's it can store.
+
+------
+
+### Why the digital world is based on binary.?
+
+------
+
+@title[Why 0s and 1s?]
+
+All the hardware is made from wonderful material ***silicon*** which is a great semiconductor. It can easily change between stop conducting ( **0** ) and start conducting ( **1** ) electricity through them.
+
+------
+
 ## What are computers?
 
-> Computers is a electronic machine that can be programmed to do jillion different types of tasks.
+> Computer is a electronic machine that can be programmed to do jillion different types of tasks.
 
 +++
 @title[Essential components of the computers]
@@ -27,7 +75,7 @@ Note: I encourage you to ask whenever you have a question. Please don't hesitage
 * `Processor `— that does the computational work
 * `Memory` — to store the information
 * `Input interface` — keyboard, touch screen etc
-* `Output interface` — Monitor, Speaker
+* `Output interface` —  Monitor, Speaker
 
 +++
 
@@ -36,54 +84,6 @@ Note: I encourage you to ask whenever you have a question. Please don't hesitage
 The general purpose utility of the computers make it do something from adding two numbers to flying an airplane.
 
 Note: It's a musical instrument, but a keyboard or synthesizer.
-
----
-
-## Are computers smart?
-
-+++
-
-@title[Computers are stupid]
-
-Computers are really **stupid**. But it is very *fast*.
-
-Humans are **smart**, but *slow*.
-
-+++
-
-@title[Binary]
-
-Infact, the processors inside the computer doesn't know anything other than 0’s and 1’s - refered as **binary**
-
-+++
-
-@title[Binary Storage]
-
-So all the videos, music and textual information you see in computers are stored as just 0’s and 1’s in hardware. 
-
-+++
-
-### How many of you know what is GB or MB mean in iphone or computers?
-
-+++
-
-@title[What does GB Mean?]
-
-Bytes or Gigabytes is unit for measuring memory just like pounds for weight, ounces for liquid etc.
-
-
-
-Memory capacity basically tells you how many 0's and 1's it can store.
-
-+++
-
-### Why the digital world is based on binary.?
-
-+++
-
-@title[Why 0s and 1s?]
-
-All the hardware is made from wonderful material ***silicon*** which is a great semiconductor. It can easily change between stop conducting ( **0** ) and start conducting ( **1** ) electricity through them.
 
 ---
 
@@ -99,7 +99,7 @@ Then the computer can perform your idea super-fast for you.
 
 @title[What is software?]
 
-Software programs are written in language humans can understand and then they are converted into binary that computers can understand to execute them.
+~~Software programs are written in language humans can understand and then they are converted into binary that computers can understand to execute them.~~
 
 ---
 
