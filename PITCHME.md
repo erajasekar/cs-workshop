@@ -138,9 +138,9 @@ Note: The best new movie production company in many decades, Pixar, was a softwa
 
 #### Drives creativity and innovation
 
-It's very creative profession as much like a musician or a painter.
+* It's very creative profession as much like a musician or a painter.
 
-You create new things that doesn't exist before.
+* You create new things that doesn't exist before.
 
 +++
 
@@ -152,7 +152,7 @@ You will solve problems to make people's life better.
 
 #### Impact millions of people quickly
 
-![Computing Demand](assets/image/50-million-angry-bird.png)
+![Computing Demand](assets/image/50-million-angry-bird.png&size=auto 80%)
 
 Telephone took 75 years, Internet took 4 years however Angry Birds took only 35 days!!
 
@@ -166,7 +166,7 @@ You will work with a team to build things just like being part of a sport team t
 
 #### Future proof
 
-![Computing Demand](assets/image/STEM-Growth-Aggreg-2024.png)
+![Computing Demand](assets/image/STEM-Growth-Aggreg-2024.png&size=auto 90%)
 
 As per US-BLS projections, computing will be the safest STEM career options for the foreseeable future.
 
@@ -174,17 +174,17 @@ As per US-BLS projections, computing will be the safest STEM career options for 
 
 #### Pays well
 
-Because of high demand, Software developers are paid well.
+* Because of high demand, Software developers are paid well.
 
-Software developers can create lot of value with no cost of raw materials.
+* Software developers can create lot of value with no cost of raw materials.
 
-All you need is your time and a computer.
+* All you need is your time and a computer.
 
 +++
 
 #### Work from anywhere.
 
-With internet literally you can work from any where in the world.
+With the internet, you can literally work from any where in the world.
 
 ---
 ## What are the triats for becoming software developer?
