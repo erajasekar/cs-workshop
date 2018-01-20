@@ -58,7 +58,7 @@ All the hardware is made from wonderful material ***silicon*** which is a great 
 +++
 @title[Essential components of the computers]
 
-###A computer essentially has
+### A computer essentially has
 
 #### Processor
 
