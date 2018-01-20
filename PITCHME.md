@@ -41,20 +41,6 @@ So all the videos, music and textual information you see in computers are stored
 
 +++
 
-### How many of you know what is GB or MB mean in iphone or computers?
-
-+++
-
-@title[What does GB Mean?]
-
-Bytes or Gigabytes is unit for measuring memory just like pounds for weight, ounces for liquid etc.
-
-
-
-Memory capacity in bytes basically tells you how many 0's and 1's it can store.
-
-+++
-
 ### Why the digital world is based on binary.?
 
 +++
@@ -74,8 +60,30 @@ All the hardware is made from wonderful material ***silicon*** which is a great 
 
 ###### A computer essentially has
 
-* `Processor `— that does the computational work
-* `Memory` — to store the information
+## Processor
+
+Does the computational work.
+
+The speed of the proccessor measured in Giga Hertz GHz tells us how many instructions processor can do in a second.
+
++++
+
+## Memory
+
+Stores all the information.
+
+### How many of you know what is GB or MB mean in iphone or computers?
+
++++
+
+@title[What does GB Mean?]
+
+Bytes or Gigabytes is unit for measuring memory just like pounds for weight, ounces for liquid etc.
+
+Memory capacity in bytes basically tells you how many 0's and 1's it can store.
+
++++
+
 * `Input interface` — keyboard, touch screen etc
 * `Output interface` —  Monitor, Speaker
 
@@ -206,3 +214,16 @@ With the internet, you can literally work from any where in the world.
 * ​
 
 
+---
+
+## Credits
+
+[Five Reasons why software engineering is a great career choice.](https://henrikwarne.com/2014/12/08/5-reasons-why-software-developer-is-a-great-career-choice/amp/)
+
+[Why Software is Eating World](https://a16z.com/2016/08/20/why-software-is-eating-the-world/)
+
+[The market for computing careers](https://cs.calvin.edu/documents/computing_careers)
+
+[To reach 50 Million users Angry bird took only 35 days](https://www.techworm.net/2015/03/to-reach-50-million-users-telephone-took-75-years-internet-took-4-years-angry-birds-took-only-35-days.html/amp)
+
+[The Master Algorithm: How the Quest for the Ultimate Learning Machine will Remake our world](http://amzn.to/2DtRt47)
