@@ -58,9 +58,9 @@ All the hardware is made from wonderful material ***silicon*** which is a great 
 +++
 @title[Essential components of the computers]
 
-###### A computer essentially has
+###A computer essentially has
 
-## Processor
+#### Processor
 
 Does the computational work.
 
@@ -68,11 +68,11 @@ The speed of the proccessor measured in Giga Hertz GHz tells us how many instruc
 
 +++
 
-## Memory
+#### Memory
 
 Stores all the information.
 
-### How many of you know what is GB or MB mean in iphone or computers?
+##### How many of you know what is GB or MB mean in iphone or computers?
 
 +++
 
