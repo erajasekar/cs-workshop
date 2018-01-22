@@ -149,6 +149,12 @@ if a fever can be caused by influenza or malaria, and you should take Tylenol fo
 
 Algorithms schedule flights and then fly the airplanes. Algorithms run factories, trade and route goods, cash the proceeds, and keep records.
 
+Scientists make theories, and engineers make devices. Computer scientists make algorithms that connects both theories and devices.
+
+---
+
+you have to write it down in a language computers can understand, like Java or Python
+
 ---
 
 ## What is programming?
