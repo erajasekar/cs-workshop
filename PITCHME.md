@@ -63,23 +63,21 @@ Note: Discuss about conductors and insulators.
 
 > Computers are made of billions of tiny ***transistors*** which can be programmed to flip states between 0 and 1 using electrical signals.
 
-Just like billions of neurons fire in our Human brain based on visual, auditory or sensory input.
-
 +++
 
-<img src="assets/image/brain-transistor.png" alt="impact millions" width="600px" height="500px">
+Just like billions of neurons fire in our Human brain based on visual, auditory or sensory input.
+
+<img src="assets/image/brain-transistor.png" alt="impact millions" width="500px" height="400px">
 
 +++
 
 ### Why computers is a genius invention? 
 
-It would be very expensive, if we had to build a new computer for every different thing we want to do. 
-
-So we invented a general purpose computer containing a vast assembly of transistors that can do many different things, depending on which transistors are activated.
+We invented a general purpose computer containing a vast assembly of transistors that can do many different things, depending on which transistors are activated.
 
 It could do something from adding two numbers to flying an airplane.
 
-Note: It's not a musical instrument, but a keyboard or synthesizer.
+Note: It would be very expensive, if we had to build a new computer for every different thing we want to do. 
 
 +++
 
@@ -124,6 +122,8 @@ Memory capacity in bytes basically tells you how many 0's and 1's it can store.
 ---
 
 ## How do you tell Computers to do something?
+
++++
 
 We need to provide a sequence of instructions telling a computer to what to do which is called as ***Algorithms***.
 
