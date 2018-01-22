@@ -39,40 +39,60 @@ Infact, the processors inside the computer doesn't know anything other than 0’
 
 So all the videos, music and textual information you see in computers are stored as just 0’s and 1’s in hardware. 
 
-+++
+---
 
-### Why the digital world is based on binary.?
+## Why the digital world is based on binary.?
 
 +++
 
 @title[Why 0s and 1s?]
 
-All the hardware is made from wonderful material ***silicon*** which is a great semiconductor. It can easily change between stop conducting ( **0** ) and start conducting ( **1** ) electricity through them.
-
+All the hardware is made from wonderful semiconductor material ***silicon***. It can easily change state between stop conducting ( **0** ) and start conducting ( **1** ) electricity through them.
 
 
 One bit of information ( 0 or 1) is stored in tiny device called ***transistor***  and they are made from silicon.
-
 
 
 Note: Discuss about conductors and insulators.
 
 ---
 
-## What are computers?
+## What's inside Computers?
+
++++
+
+> Computers are made of billions of tiny ***transistors*** which can be programmed to flip states between 0 and 1 using electrical signals.
+
+Just like billions of neurons fire in our Human brain based on visual, auditory or sensory input.
+
++++
+
+<img src="assets/image/brain-transistor.png" alt="impact millions" width="600px" height="500px">
+
++++
+
+### Why computers is a genius invention? 
+
+It would be very expensive, if we had to build a new computer for every different thing we want to do. 
+
+So we invented a general purpose computer containing a vast assembly of transistors that can do many different things, depending on which transistors are activated.
+
+It could do something from adding two numbers to flying an airplane.
+
+Note: It's not a musical instrument, but a keyboard or synthesizer.
+
++++
+
+### What are computers?
 
 > Computer is a electronic machine that can be programmed to do zillions of different tasks.
+
+It could do something from adding two numbers to flying an airplane.
 
 +++
 @title[Essential components of the computers]
 
-#### Computers are made of billions of tiny switches called transistors.
-
-The state of one transistor is one bit of information: one if the transistor is on, and zero if it’s off.
-
-+++
-
-### A computer essentially has
+### What are components of a computer?
 
 #### Processor
 
@@ -101,13 +121,33 @@ Memory capacity in bytes basically tells you how many 0's and 1's it can store.
 * `Input interface` — keyboard, touch screen etc
 * `Output interface` —  Monitor, Speaker
 
+---
+
+## How do you tell Computers to do something?
+
+We need to provide a sequence of instructions telling a computer to what to do which is called as ***Algorithms***.
+
 +++
 
-## What makes computers a genius invention? 
+### How transistors execute Algorithms?
 
-The general purpose utility of the computers make it do something from adding two numbers to flying an airplane.
+Transistors are combined to create ***logic gates*** that can perform `AND` `OR` and `NOT`.
 
-Note: It's not a musical instrument, but a keyboard or synthesizer.
+Every algorithm, no matter how complex, can be reduced to just these three operations: AND, OR, and NOT.
+
++++
+
+### Algorithm example
+
+if a fever can be caused by influenza or malaria, and you should take Tylenol for a fever and a headache
+
+<img src="assets/image/algorithm-logic.png" alt="impact millions" width="400px" height="300px">
+
++++
+
+### Algorithms are everywhere
+
+Algorithms schedule flights and then fly the airplanes. Algorithms run factories, trade and route goods, cash the proceeds, and keep records.
 
 ---
 
