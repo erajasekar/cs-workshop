@@ -12,7 +12,7 @@ This is Rajasekar Elango, Software Engineer at Salesforce.com
 
 @title[About Audience]
 
-What are you curious to know about computers?
+What are you curious to know about computer science?
 
 Note: I encourage you to ask question whenever you have. Please don't hesitage.
 
@@ -49,14 +49,28 @@ So all the videos, music and textual information you see in computers are stored
 
 All the hardware is made from wonderful material ***silicon*** which is a great semiconductor. It can easily change between stop conducting ( **0** ) and start conducting ( **1** ) electricity through them.
 
+
+
+One bit of information ( 0 or 1) is stored in tiny device called ***transistor***  and they are made from silicon.
+
+
+
+Note: Discuss about conductors and insulators.
+
 ---
 
 ## What are computers?
 
-> Computer is a electronic machine that can be programmed to do zillion types of tasks.
+> Computer is a electronic machine that can be programmed to do zillions of different tasks.
 
 +++
 @title[Essential components of the computers]
+
+#### Computers are made of billions of tiny switches called transistors.
+
+The state of one transistor is one bit of information: one if the transistor is on, and zero if it’s off.
+
++++
 
 ### A computer essentially has
 
