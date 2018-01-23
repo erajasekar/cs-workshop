@@ -69,7 +69,7 @@ Note: It would be very expensive, if we had to build a new computer for every di
 
 ---
 
-## What are computers?
+## What is a Computers?
 
 > Computer is a electronic machine that can be programmed to do zillions of different tasks.
 
@@ -78,7 +78,7 @@ Note: It would be very expensive, if we had to build a new computer for every di
 +++
 @title[Essential components of the computers]
 
-### What are components of a computer?
+### A Computer has
 
 #### Processor
 
@@ -102,8 +102,13 @@ Stores all the information.
 
 +++
 
-* `Input interface` — keyboard, touch screen etc
-* `Output interface` —  Monitor, Speaker
+#### Input interface
+
+Like keyboard, touch screen etc
+
+#### Output interface
+
+Like Monitor, Speaker
 
 ---
 
