@@ -40,8 +40,8 @@ So all the videos, music and textual information you see in computers are stored
 ## Why the digital world is based on binary.?
 @title[Why 0s and 1s?]
 
-- All the hardware is made from wonderful semiconductor material ***silicon***. It can easily change state between stop conducting ( 0 ) and start conducting ( 1 ) electricity through them. | 
-- Silicon is used to make a tiny device called ***transistor*** which store one bit of information ( 0 or 1). |
+<p class="fragment">All the hardware is made from wonderful semiconductor material ***silicon***. It can easily change state between stop conducting ( **0** ) and start conducting ( **1** ) electricity through them. </p>
+<p class="fragment">Silicon is used to make a tiny device called ***transistor*** which store one bit of information ( 0 or 1). </p>
 
 Note: Discuss about conductors and insulators.
 
