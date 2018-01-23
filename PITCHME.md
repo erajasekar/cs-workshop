@@ -19,13 +19,11 @@ Note: I encourage you to ask question whenever you have. Please don't hesitage.
 ---
 ## Are computers smart?
 
-+++
-
 @title[Computers are stupid]
 
-Computers are really **stupid**. But it is very *fast*.
+- Computers are really **stupid**. But it is very *fast*. | 
 
-Humans are **smart**, but *slow*.
+- Humans are **smart**, but *slow*. |
 
 +++
 
@@ -104,15 +102,14 @@ The speed of the proccessor measured in Giga Hertz GHz tells us how many instruc
 
 Stores all the information.
 
-##### How many of you know what is GB or MB mean in iphone or computers?
-
 +++
 
+##### How many of you know what is GB or MB mean in iphone or computers?
 @title[What does GB Mean?]
 
-Bytes or Gigabytes is unit for measuring memory just like pounds for weight, ounces for liquid etc.
+- Bytes or Gigabytes is unit for measuring memory just like pounds for weight, ounces for liquid etc. | 
 
-Memory capacity in bytes basically tells you how many 0's and 1's it can store.
+- Memory capacity in bytes basically tells you how many 0's and 1's it can store. | 
 
 +++
 
