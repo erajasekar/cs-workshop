@@ -49,7 +49,7 @@ Note: Discuss about conductors and insulators.
 
 ## What's inside Computers?
 
-> Computers are made of billions of tiny transistors which can be programmed to flip states between 0 and 1 using electrical signals. |
+> Computers are made of billions of tiny ***transistors*** which can be programmed to flip states between 0 and 1 using electrical signals.
 
 +++
 
