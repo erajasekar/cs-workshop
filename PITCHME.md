@@ -67,7 +67,7 @@ Just like billions of neurons fire in our Human brain based on visual, auditory 
 ---
 ## What is a Computer?
 
-> Computer is a electronic machine that can be programmed to do zillions of different tasks.
+> `Computer is a electronic machine that can be programmed to do zillions of different tasks.`
 
 <p class="fragment"> It could do something from adding two numbers to flying an airplane.</p>
 
@@ -168,7 +168,7 @@ Just like simple mathematical operations are combined to produce complex mathema
 
 Algorithms fly the airplanes, forecast weather. They run factories, tell us driving directions and so on.
 
-Scientists make theories, and engineers make devices. Computer scientists make algorithms that connects both theories and devices.
+*Scientists make theories, and engineers make devices. Computer scientists make algorithms that connects both theories and devices.*
 
 ---
 ## What is Programming?
