@@ -18,11 +18,10 @@ Note: I encourage you to ask question whenever you have. Please don't hesitage.
 
 ---
 ## Are computers smart?
-
 @title[Computers are stupid]
 
-- Computers are really **stupid**. But it is very *fast*. | 
-- Humans are **smart**, but *slow*. |
+<p class="fragment">Computers are really **stupid**. But it is very *fast*. </p>
+<p class="fragment">Humans are **smart**, but *slow*. </p>
 
 +++
 
