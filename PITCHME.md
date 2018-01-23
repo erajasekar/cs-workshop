@@ -24,21 +24,19 @@ Note: I encourage you to ask question whenever you have. Please don't hesitage.
 <p class="fragment">Humans are **smart**, but *slow*. </p>
 
 +++
-
-@title[Binary]
+@title[Binary Introduction]
 
 Infact, the processors inside the computer doesn't know anything other than 0’s and 1’s - refered as **binary**
 
 +++
-
-@title[Binary Storage]
+@title[Everything is stored as binary]
 
 So all the videos, music and textual information you see in computers are stored as just 0’s and 1’s in hardware. 
 
 ---
 
 ## Why the digital world is based on binary.?
-@title[Why 0s and 1s?]
+@title[Why digital world is binary?]
 
 <p class="fragment">All the hardware is made from wonderful semiconductor material ***silicon***. It can easily change state between stop conducting ( **0** ) and start conducting ( **1** ) electricity through them. </p>
 <p class="fragment">Silicon is used to make a tiny device called ***transistor*** which can store one bit of information ( 0 or 1). </p>
@@ -61,14 +59,13 @@ Just like billions of neurons fire in our Human brain based on visual, auditory 
 
 ## Why computers is a genius invention? 
 
-- We invented a general purpose computer containing a vast assembly of transistors that can do many different things, depending on which transistors are activated. | 
+- We invented a general purpose computer containing a array of transistors that can do many different things, depending on which transistors are swiched on and off. | 
 
-- It could do something from adding two numbers to flying an airplane. |
+- It could do anything from adding two numbers to flying an airplane. |
 
 Note: It would be very expensive, if we had to build a new computer for every different thing we want to do. 
 
 ---
-
 ## What is a Computers?
 
 > Computer is a electronic machine that can be programmed to do zillions of different tasks.
@@ -84,7 +81,7 @@ Note: It would be very expensive, if we had to build a new computer for every di
 
 Does the computational work.
 
-The speed of the proccessor measured in Giga Hertz GHz tells us how many instructions processor can do in a second.
+The speed of the proccessor determines how fast computer can do the tasks.
 
 +++
 
@@ -92,23 +89,33 @@ The speed of the proccessor measured in Giga Hertz GHz tells us how many instruc
 
 Stores all the information.
 
+Memory capacity basically indicates you how many 0's and 1's it can store
+
 +++
 
 ##### How many of you know what is GB or MB mean in iphone or computers?
 @title[What does GB Mean?]
 
-- Bytes or Gigabytes is unit for measuring memory just like pounds for weight, ounces for liquid etc. | 
-- Memory capacity in bytes basically tells you how many 0's and 1's it can store. | 
+- Mega Bytes or Gigabytes is unit for measuring memory just like pounds for weight, ounces for liquid etc. | 
+
+| 1 Bit          | Binary Digit 0 or 1 |
+| -------------- | ------------------- |
+| 8 Bytes        | 1 Byte              |
+| 1024 Bytes     | 1 Kilobyte          |
+| 1024 Kilobytes | 1 Megabyte          |
+| 1024 Megabyte  | 1 Gigabyte          |
 
 +++
 
 #### Input interface
 
-Like keyboard, touch screen etc
+Like keyboard, touch screen, scanner etc
+
++++
 
 #### Output interface
 
-Like Monitor, Speaker
+Like Monitor, Speaker, Printer
 
 ---
 
@@ -136,14 +143,16 @@ if a fever can be caused by influenza or malaria, and you should take Tylenol fo
 
 +++
 
-### Algorithms can be combined to solve complex problems
+### Algorithms can solve complex problems
 
-Algorithms combine with other algorithms to use the results of other algorithms, in turn producing results for still more algorithms.
+Algorithms can be combined together to solve complex problems.
+
+Just like simple mathematical operations are combined to produce complex mathematical formulas.
 
 +++
 ### Algorithms are everywhere
 
-Algorithms fly the airplanes, predict weather. They run factories, tell us driving directions and so on.
+Algorithms fly the airplanes, forecast weather. They run factories, tell us driving directions and so on.
 
 > Scientists make theories, and engineers make devices. Computer scientists make algorithms that connects both theories and devices.
 
@@ -166,7 +175,7 @@ Software is collection of programs that are written in language humans can under
 
 ## Why Software is Eating the World?
 
-* Six decades into the computer revolution
+* Six decades after the computer revolution
 
 * Four decades since the invention of the microprocessor
 
@@ -193,7 +202,7 @@ Note: The best new movie production company in many decades, Pixar, was a softwa
 
 +++
 
-#### Drives creativity and innovation
+### Drives creativity and innovation
 
 * It's very creative profession as much like a musician or a painter.
 
@@ -201,13 +210,13 @@ Note: The best new movie production company in many decades, Pixar, was a softwa
 
 +++
 
-#### Make people's life better
+### Make people's life better
 
 You will solve problems to make people's life better.
 
 +++
 
-#### Impact millions of people quickly
+### Impact millions of people quickly
 
 <img src="assets/image/50-million-angry-bird.png" alt="impact millions" width="500px" height="400px">
 
@@ -215,13 +224,13 @@ Telephone took 75 years, Internet took 4 years however Angry Birds took only 35 
 
 +++
 
-#### Colloborative 
+### Colloborative 
 
 Software engineering is a team sport and you work together to build amazing things.
 
 +++
 
-#### Future proof
+### Future proof
 
 <img src="assets/image/STEM-Growth-Aggreg-2024.png" alt="Computing Demand" width="500px" height="400px">
 
