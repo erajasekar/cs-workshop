@@ -132,7 +132,7 @@ Every algorithm, no matter how complex, can be reduced to just these three opera
 
 if a fever can be caused by influenza or malaria, and you should take Tylenol for a fever and a headache
 
-<img src="assets/image/algorithm-logic.png" alt="impact millions" width="300px" height="200px">
+<img src="assets/image/algorithm-logic.png" alt="impact millions" width="400px" height="300px">
 
 +++
 
