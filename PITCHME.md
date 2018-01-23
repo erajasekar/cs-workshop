@@ -26,7 +26,7 @@ Note: I encourage you to ask question whenever you have. Please don't hesitage.
 +++
 @title[Binary Introduction]
 
-Infact, the processors inside the computer doesn't know anything other than 0’s and 1’s - refered as **binary**
+Infact, the hardware inside the computer doesn't know anything other than 0’s and 1’s - refered as ***binary***
 
 +++
 @title[Everything is stored as binary]
@@ -35,11 +35,12 @@ So all the videos, music and textual information you see in computers are stored
 
 ---
 
-## Why the digital world is based on binary.?
+## Why the digital world is based on binary?
 @title[Why digital world is binary?]
 
-<p class="fragment">All the hardware is made from wonderful semiconductor material ***silicon***. It can easily change state between stop conducting ( **0** ) and start conducting ( **1** ) electricity through them. </p>
-<p class="fragment">Silicon is used to make a tiny device called ***transistor*** which can store one bit of information ( 0 or 1). </p>
+<p class="fragment">All the hardware is made from wonderful semiconductor material ***silicon***. </p>
+<p class="fragment"> It can easily change state between stop conducting ( **0** ) and start conducting ( **1** ) electricity through them. </p>
+<p class="fragment">Silicon is used to make a tiny device called ***transistor*** which stores one bit of 0 or 1. </p>
 
 Note: Discuss about conductors and insulators.
 
@@ -59,11 +60,9 @@ Just like billions of neurons fire in our Human brain based on visual, auditory 
 
 ## Why computers is a genius invention? 
 
-- We invented a general purpose computer containing a array of transistors that can do many different things, depending on which transistors are swiched on and off. | 
+- It will be super expensive, if we had to build a new computer for every different thing we want to do. 
 
-- It could do anything from adding two numbers to flying an airplane. |
-
-Note: It would be very expensive, if we had to build a new computer for every different thing we want to do. 
+- Instead, we invented a general purpose computer containing a assembly of transistors that can do many different things, depending on which transistors are swiched on and off. | 
 
 ---
 ## What is a Computers?
@@ -79,34 +78,49 @@ Note: It would be very expensive, if we had to build a new computer for every di
 
 #### Processor
 
-Does the computational work.
+* Does the computational work.
 
-The speed of the proccessor determines how fast computer can do the tasks.
+* The speed of the proccessor determines how fast computer can do the tasks.
 
 +++
 
 #### Memory
 
-Stores all the information.
+* Stores all the information.
 
-Memory capacity basically indicates you how many 0's and 1's it can store
+* Memory capacity basically indicates you how many 0's and 1's it can store
 
 +++
 
-##### How many of you know what is GB or MB mean in iphone or computers?
+#### How many of you know what is GB or MB mean in iphone or computers?
 @title[What does GB Mean?]
 
-- Mega Bytes or Gigabytes is unit for measuring memory just like pounds for weight, ounces for liquid etc. | 
+<p class="fragment"> Mega Bytes or Gigabytes is unit for measuring memory just like pounds for weight, ounces for liquid etc. </p>
 
-| 1 Bit          | Binary Digit 0 or 1 |
-| -------------- | ------------------- |
-| 8 Bytes        | 1 Byte              |
-| 1024 Bytes     | 1 Kilobyte          |
-| 1024 Kilobytes | 1 Megabyte          |
-| 1024 Megabyte  | 1 Gigabyte          |
+<table class="fragment"> 
+	<tr>
+		<td>1 Bit = </td>
+		<td>Binary Digit 0 or 1 </td>
+	</tr>
+	<tr>
+		<td>8 Bytes = </td>
+		<td>1 Byte </td>
+	</tr>
+	<tr>
+		<td>1024 Bytes = </td>
+		<td>1 Kilobyte (KB) </td>
+	</tr>
+	<tr>
+		<td>1024 Kilobytes = </td>
+		<td>1 Megabyte (MB) </td>
+	</tr>
+	<tr>
+		<td>1024 Megabytes = </td>
+		<td>1 Gigabyte (GB) </td>
+	</tr>
+</table>
 
 +++
-
 #### Input interface
 
 Like keyboard, touch screen, scanner etc
@@ -154,7 +168,7 @@ Just like simple mathematical operations are combined to produce complex mathema
 
 Algorithms fly the airplanes, forecast weather. They run factories, tell us driving directions and so on.
 
-> Scientists make theories, and engineers make devices. Computer scientists make algorithms that connects both theories and devices.
+`Scientists make theories, and engineers make devices. Computer scientists make algorithms that connects both theories and devices.`
 
 ---
 ## What is Programming?
@@ -181,7 +195,7 @@ Software is collection of programs that are written in language humans can under
 
 * Two decades into the rise of the modern Internet
   ​
-All of the technology required to transform every industry through software possible today.
+* `All of the technology required to transform every industry through software possible today.`
 
 +++
 
@@ -192,7 +206,6 @@ All of the technology required to transform every industry through software poss
 * Movies — Animation, Netfix
 * Telecom — Skype
 * Education — KhanAcademy, Udemy
-* Healthcare 
 
 Note: The best new movie production company in many decades, Pixar, was a software company. Disney — had to buy Pixar, a software company, to remain relevant in animated movies.
 
@@ -238,17 +251,17 @@ As per US-BLS projections, computing will be the safest STEM career options for 
 
 +++
 
-#### Pays well
+### Pays well
 
-* Because of high demand, Software developers are paid well.
+* Because of high demand, Software engineers are paid well.
 
-* Software developers can create lot of value with no cost of raw materials.
+* Software engineers can create lot of value with no cost of raw materials.
 
 * All you need is your time and a computer.
 
 +++
 
-#### Work from anywhere.
+### Work from anywhere.
 
 With the internet, you can literally work from any where in the world.
 
