@@ -41,7 +41,7 @@ So all the videos, music and textual information you see in computers are stored
 @title[Why 0s and 1s?]
 
 <p class="fragment">All the hardware is made from wonderful semiconductor material ***silicon***. It can easily change state between stop conducting ( **0** ) and start conducting ( **1** ) electricity through them. </p>
-<p class="fragment">Silicon is used to make a tiny device called ***transistor*** which store one bit of information ( 0 or 1). </p>
+<p class="fragment">Silicon is used to make a tiny device called ***transistor*** which can store one bit of information ( 0 or 1). </p>
 
 Note: Discuss about conductors and insulators.
 
@@ -57,23 +57,23 @@ Just like billions of neurons fire in our Human brain based on visual, auditory 
 
 <img src="assets/image/brain-transistor.png" alt="impact millions" width="500px" height="400px">
 
-+++
+---
 
-### Why computers is a genius invention? 
+## Why computers is a genius invention? 
 
-We invented a general purpose computer containing a vast assembly of transistors that can do many different things, depending on which transistors are activated.
+- We invented a general purpose computer containing a vast assembly of transistors that can do many different things, depending on which transistors are activated. | 
 
-It could do something from adding two numbers to flying an airplane.
+- It could do something from adding two numbers to flying an airplane. |
 
 Note: It would be very expensive, if we had to build a new computer for every different thing we want to do. 
 
-+++
+---
 
-### What are computers?
+## What are computers?
 
 > Computer is a electronic machine that can be programmed to do zillions of different tasks.
 
-It could do something from adding two numbers to flying an airplane.
+<p class="fragment"> It could do something from adding two numbers to flying an airplane.</p>
 
 +++
 @title[Essential components of the computers]
