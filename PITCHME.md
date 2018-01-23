@@ -62,10 +62,10 @@ Just like billions of neurons fire in our Human brain based on visual, auditory 
 
 - It will be super expensive, if we had to build a new computer for every different thing we want to do. 
 
-- Instead, we invented a general purpose computer containing a assembly of transistors that can do many different things, depending on which transistors are swiched on and off. | 
+- Instead, we invented a general purpose computer containing a assembly of transistors that can do many different things, depending on which transistors are swiched on and off.  
 
 ---
-## What is a Computers?
+## What is a Computer?
 
 > Computer is a electronic machine that can be programmed to do zillions of different tasks.
 
@@ -92,31 +92,31 @@ Just like billions of neurons fire in our Human brain based on visual, auditory 
 
 +++
 
-#### How many of you know what is GB or MB mean in iphone or computers?
+#### How many of you know what does GB or MB mean in phone or computers?
 @title[What does GB Mean?]
 
 <p class="fragment"> Mega Bytes or Gigabytes is unit for measuring memory just like pounds for weight, ounces for liquid etc. </p>
 
 <table class="fragment"> 
 	<tr>
-		<td>1 Bit = </td>
-		<td>Binary Digit 0 or 1 </td>
+		<td>1 Bit </td>
+		<td>= Binary Digit 0 or 1 </td>
 	</tr>
 	<tr>
-		<td>8 Bytes = </td>
-		<td>1 Byte </td>
+		<td>8 Bytes </td>
+		<td>= 1 Byte </td>
 	</tr>
 	<tr>
-		<td>1024 Bytes = </td>
-		<td>1 Kilobyte (KB) </td>
+		<td>1024 Bytes </td>
+		<td>= 1 Kilobyte (KB) </td>
 	</tr>
 	<tr>
-		<td>1024 Kilobytes = </td>
-		<td>1 Megabyte (MB) </td>
+		<td>1024 Kilobytes</td>
+		<td>= 1 Megabyte (MB) </td>
 	</tr>
 	<tr>
-		<td>1024 Megabytes = </td>
-		<td>1 Gigabyte (GB) </td>
+		<td>1024 Megabytes</td>
+		<td>= 1 Gigabyte (GB) </td>
 	</tr>
 </table>
 
@@ -129,7 +129,7 @@ Like keyboard, touch screen, scanner etc
 
 #### Output interface
 
-Like Monitor, Speaker, Printer
+Like Monitor, Speaker, Printer, etc
 
 ---
 
@@ -168,14 +168,14 @@ Just like simple mathematical operations are combined to produce complex mathema
 
 Algorithms fly the airplanes, forecast weather. They run factories, tell us driving directions and so on.
 
-`Scientists make theories, and engineers make devices. Computer scientists make algorithms that connects both theories and devices.`
+Scientists make theories, and engineers make devices. Computer scientists make algorithms that connects both theories and devices.
 
 ---
 ## What is Programming?
 
 @title[What is Programming?]
 
-> Programming is the act of taking complicated human ideas and breaking them down into simple algorithms that computers can understand and follow.
+`Programming is the act of taking complicated human ideas and breaking them down into simple algorithms that computers can understand and follow.`
 
 A Programmer creates algorithms and codes them up in human friendly language like `Java` or `Python`
 
@@ -195,7 +195,7 @@ Software is collection of programs that are written in language humans can under
 
 * Two decades into the rise of the modern Internet
   ​
-* `All of the technology required to transform every industry through software possible today.`
+* All of the technology required to transform every industry through software possible today.
 
 +++
 
