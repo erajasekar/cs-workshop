@@ -49,11 +49,11 @@ Note: Discuss about conductors and insulators.
 
 ## What's inside Computers?
 
-<quote class="fragment"> Computers are made of billions of tiny ***transistors*** which can be programmed to flip states between 0 and 1 using electrical signals.</quote>
+- > Computers are made of billions of tiny transistors which can be programmed to flip states between 0 and 1 using electrical signals. |
 
 +++
 
-Just like billions of neurons fire in our Human brain based on visual, auditory or sensory input.
+Just like billions of neurons fire in our Human brain based on visual, auditory or sensory signal.
 
 <img src="assets/image/brain-transistor.png" alt="impact millions" width="500px" height="400px">
 
