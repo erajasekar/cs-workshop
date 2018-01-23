@@ -122,7 +122,7 @@ We need to provide a sequence of instructions telling a computer to what to do w
 
 ### How transistors execute Algorithms?
 
-Transistors are combined to create ***logic gates*** that can perform `AND` `OR` and `NOT`.
+Transistors are combined to create ***logic gates*** that can perform logical operations like ***AND***, ***OR***, ***NOT***
 
 Every algorithm, no matter how complex, can be reduced to just these three operations: AND, OR, and NOT.
 
@@ -136,31 +136,31 @@ if a fever can be caused by influenza or malaria, and you should take Tylenol fo
 
 +++
 
+### Algorithms can be combined to solve complex problems
+
+Algorithms combine with other algorithms to use the results of other algorithms, in turn producing results for still more algorithms.
+
++++
 ### Algorithms are everywhere
 
-Algorithms schedule flights and then fly the airplanes. Algorithms run factories, trade and route goods, cash the proceeds, and keep records.
+Algorithms fly the airplanes, predict weather. They run factories, tell us driving directions and so on.
 
-Scientists make theories, and engineers make devices. Computer scientists make algorithms that connects both theories and devices.
-
----
-
-you have to write it down in a language computers can understand, like Java or Python
+> Scientists make theories, and engineers make devices. Computer scientists make algorithms that connects both theories and devices.
 
 ---
-
-## What is programming?
+## What is Programming?
 
 @title[What is Programming?]
 
-> Programming is the act of taking complicated human ideas and breaking them down into simple enough instructions that a computer can understand and follow.
+> Programming is the act of taking complicated human ideas and breaking them down into simple algorithms that computers can understand and follow.
 
-Then the computer can perform your idea super-fast for you.
+A Programmer creates algorithms and codes them up in human friendly language like `Java` or `Python`
 
-+++
+---
+## What is Software?
+@title[What is Software?]
 
-@title[What is software?]
-
-~~Software programs are written in language humans can understand and then they are converted into binary that computers can understand to execute them.~~
+Software is collection of programs that are written in language humans can understand and then they are converted into binary that computers can understand to execute them.
 
 ---
 
@@ -171,14 +171,12 @@ Then the computer can perform your idea super-fast for you.
 * Four decades since the invention of the microprocessor
 
 * Two decades into the rise of the modern Internet
-
   ​
-
 All of the technology required to transform every industry through software possible today.
 
 +++
 
-## Every Industry is revolutioned by Software
+### Every Industry is revolutioned by Software
 
 * Finance — Stock market, Paypal
 * Retail — Amazon, online shopping
@@ -262,7 +260,7 @@ With the internet, you can literally work from any where in the world.
 * Self driving cars
 * Deep blue beats Chess Champion Kasparov
 * AlphaGo beating Ke Jie, Go World Champion
-* ​
+* ​https://www.autodraw.com/
 
 
 ---
