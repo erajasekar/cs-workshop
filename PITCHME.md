@@ -17,7 +17,7 @@ What are you curious to know about computer science?
 Note: I encourage you to ask question whenever you have. Please don't hesitage.
 
 ---
-## Are computers smart?v
+## Are computers smart?
 @title[Computers are stupid]
 
 <p class="fragment">Computers are really **stupid**. But it is very *fast*. </p>
@@ -121,7 +121,7 @@ Like Monitor, Speaker, Printer, etc
 ---
 
 ## How do you tell Computers to do something?
-
+@title[What are Algorithms?]
 +++
 
 We need to provide a sequence of instructions telling a computer to what to do which is called as ***Algorithms***.
@@ -289,7 +289,7 @@ Bill Gates said he would always 'hire a lazy person to do a difficult job' at Mi
 * Writing a program is an art like writing a poem at the same time it needs applying logical skills to solve the problem.
 
 +++
-
+@title[Intersection of Arts and Technology]
 According to Steve Jobs -- The greatest innovations come from the intersection of technology and arts.
 <img src="assets/image/Apples_DNA.png" alt="Apples_DNA" width="500px" height="400px">
 
