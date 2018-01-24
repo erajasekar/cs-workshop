@@ -52,11 +52,25 @@ Note: Discuss about conductors and insulators.
 
 +++
 
+Just like billions of neurons fire in our Human brain based on visual, auditory or sensory signal.
+
+<img src="assets/image/brain-transistor.png" alt="impact millions" width="500px" height="400px">
+
+---
+
+## Why computers is a genius invention? 
+
+- It will be super expensive, if we had to build a new computer for every different thing we want to do. 
+
+- Instead, we invented a general purpose computer containing a assembly of transistors that can do many different things, depending on which transistors are swiched on and off.  
+
+---
+
 ## What is a Computer?
 
 > `Computer is a electronic machine that can be programmed to do zillions of different tasks.`
 
-<p class="fragment"> It could do something from adding two numbers to flying an airplane.</p>
+<p class="fragment"> It could do anything from adding two numbers to flying an airplane.</p>
 
 +++
 @title[Essential components of the computers]
@@ -266,7 +280,7 @@ With the internet, you can literally work from any where in the world.
 
 ### Enjoy solving puzzles
 
-* You should be passionate about progressing from a unknown state of a problem to arriving at a working solution.
+* You are passionate about making progress from a unknown state of a problem to arriving at a working solution.
 
 +++
 
@@ -309,11 +323,28 @@ We are heading towards making machines to learn and creating artificial intellig
 
 +++
 
-### Image and Speach Recognition
+### What is Machine learning?
+
+Machine learning makes computers to learn skills that humans can't explain.
+Machine learning works by analysing large data set of examples and figuring out Algorithm.
+We can think of machine learning as inverse of programming just like Square root is inverse of Square.
+With machine learning, computers write their own programs, so we don’t have to.
+
++++
+
+### Machine learning makes computer learn human skills
 
 * [AutoDraw](https://www.autodraw.com/) is a that pairs the magic of machine learning with drawings from talented artists to help everyone create anything visual, fast. 
+* Computers can recognize our face, our voice, handwriting , etc.
 
-* Siri , Alexa, Google Assistant are able to converse with human.
++++
+
+### Robots are becoming part of your lives
+
+* iRobot vaccum can find it's way through your home to clean everywhere.
+* Siri , Alexa, Google Assistant are able to answer our questions just like humans.
+
++++
 
 ### Computers beat human world champions.
 
@@ -321,23 +352,34 @@ We are heading towards making machines to learn and creating artificial intellig
 * In 2015, AlphaGo beat Go world Ke Jie. 
 * Go is very complex game compared to Chess, it won't be possible without machine learning.
 
-### Self Driving Cars
++++
 
-* Telsa's self driving cars are popular.
-* iRobot vaccum can find it's way through your home to clean everything.
+### How will future look like?
+
+* Self driving cars will become common on the road.
+* Every home will have some kind of a Bot.
+* All devices in your house will be a smart device like smart phones.
+* You will be helped by Chat Bots and Virtual assitants on the internet.
 
 ---
 
 ## How to Get Started on learning to Program?
 
-<http://lightbot.com/> (Age 4-8 & 9 and up)
-<http://scratch.mit.edu/> (Age 5-15)
-<http://www.greenfoot.org/door/> (Age 10-15)
-<http://code.org/>
-[Python-Kids-Playful-Introduction-Programming](http://www.amazon.com/Python-Kids-Playful-Introduction-Programming/dp/1593274076)
-[Hello World!: Computer Programming for Kids and Other Beginners](http://amzn.com/1617290920)
-[Lego mind storms](http://www.lego.com/en-us/mindstorms/?domainredir=mindstorms.lego.com) (Age 8-15)
-<https://www.khanacademy.org/> 
+* https://code.org/ — The most well known and popular project that teaches kids to code.
+* http://lightbot.com/ — This mobile game starts really easy and adds more and more complex concepts over time eventually getting quite challenging. 
+* https://www.codingame.com/start — is aimed at more experienced and older kids, teaching more complex techniques
+* https://www.allcancode.com/home — Uses visual programming language to learn how to code and build amazing apps
+* http://scratch.mit.edu/ You can program your own interactive stories, games, and animations.
+* [Lego mind storms](http://www.lego.com/en-us/mindstorms/?domainredir=mindstorms.lego.com) -- build programmable robots based on Lego building blocks.
+* https://www.khanacademy.org/>  — Build apps using Javascript guided by video tutorials.
+
++++
+
+### Books
+
+* [Python-Kids-Playful-Introduction-Programming](http://www.amazon.com/Python-Kids-Playful-Introduction-Programming/dp/1593274076)
+* [Hello World!: Computer Programming for Kids and Other Beginners](http://amzn.com/1617290920)
+ 
 
 ## Credits
 
