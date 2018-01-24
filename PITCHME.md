@@ -17,7 +17,7 @@ What are you curious to know about computer science?
 Note: I encourage you to ask question whenever you have. Please don't hesitage.
 
 ---
-## Are computers smart?
+## Are computers smart?v
 @title[Computers are stupid]
 
 <p class="fragment">Computers are really **stupid**. But it is very *fast*. </p>
@@ -52,19 +52,6 @@ Note: Discuss about conductors and insulators.
 
 +++
 
-Just like billions of neurons fire in our Human brain based on visual, auditory or sensory signal.
-
-<img src="assets/image/brain-transistor.png" alt="impact millions" width="500px" height="400px">
-
----
-
-## Why computers is a genius invention? 
-
-- It will be super expensive, if we had to build a new computer for every different thing we want to do. 
-
-- Instead, we invented a general purpose computer containing a assembly of transistors that can do many different things, depending on which transistors are swiched on and off.  
-
----
 ## What is a Computer?
 
 > `Computer is a electronic machine that can be programmed to do zillions of different tasks.`
@@ -184,6 +171,8 @@ A Programmer creates algorithms and codes them up in human friendly language lik
 @title[What is Software?]
 
 Software is collection of programs that are written in language humans can understand and then they are converted into binary that computers can understand to execute them.
+
+Softwares run computers, smart phones, ATM machines, Billing machines.
 
 ---
 
@@ -306,21 +295,49 @@ According to Steve Jobs -- The greatest innovations come from the intersection o
 
 +++
 
-### The Joy of Continous learning
+### You have Joy in Continous learning
 
 * You need to continously learn new things and keep up ever changing technology.
 
 ---
 
-## Future of Computers
+## What's fascinating about future of Computers?
 
-* Self driving cars
-* Deep blue beats Chess Champion Kasparov
-* AlphaGo beating Ke Jie, Go World Champion
-* ​https://www.autodraw.com/
+What if we can teach Computers to learn by itself.
 
+We are heading towards making machines to learn and creating artificial intelligent systems.
+
++++
+
+### Image and Speach Recognition
+
+* [AutoDraw](https://www.autodraw.com/) is a that pairs the magic of machine learning with drawings from talented artists to help everyone create anything visual, fast. 
+
+* Siri , Alexa, Google Assistant are able to converse with human.
+
+### Computers beat human world champions.
+
+* Deep Blue (Chess computer) beat World Chess Champion Garry Kasparov in 1997.
+* In 2015, AlphaGo beat Go world Ke Jie. 
+* Go is very complex game compared to Chess, it won't be possible without machine learning.
+
+### Self Driving Cars
+
+* Telsa's self driving cars are popular.
+* iRobot vaccum can find it's way through your home to clean everything.
 
 ---
+
+## How to Get Started on learning to Program?
+
+<http://lightbot.com/> (Age 4-8 & 9 and up)
+<http://scratch.mit.edu/> (Age 5-15)
+<http://www.greenfoot.org/door/> (Age 10-15)
+<http://code.org/>
+[Python-Kids-Playful-Introduction-Programming](http://www.amazon.com/Python-Kids-Playful-Introduction-Programming/dp/1593274076)
+[Hello World!: Computer Programming for Kids and Other Beginners](http://amzn.com/1617290920)
+[Lego mind storms](http://www.lego.com/en-us/mindstorms/?domainredir=mindstorms.lego.com) (Age 8-15)
+<https://www.khanacademy.org/> 
 
 ## Credits
 
