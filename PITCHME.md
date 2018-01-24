@@ -267,8 +267,8 @@ With the internet, you can literally work from any where in the world.
 
 ---
 ## What are the triats for becoming Software engineer?
-@title[Triats of a Software Engineer]
 
++++
 ### Love making things for other people to use
 
 * At end of the day, you have created something that didn't exist that morning.
@@ -277,7 +277,7 @@ With the internet, you can literally work from any where in the world.
 
 ### Enjoy solving puzzles
 
-* You should be passionate about progressing from a unknown state to arriving at a working solution to a problem.
+* You should be passionate about progressing from a unknown state of a problem to arriving at a working solution.
 
 +++
 
@@ -290,7 +290,9 @@ With the internet, you can literally work from any where in the world.
 
 ### You want to make things easier
 
-> Bill Gates said he would always 'hire a lazy person to do a difficult job' at Microsoft 'because a lazy person will find an easy way to do it'
+Bill Gates said he would always 'hire a lazy person to do a difficult job' at Microsoft 'because a lazy person will find an easy way to do it'
+
++++
 
 ### You have interest in both Arts and Engineering.
 
