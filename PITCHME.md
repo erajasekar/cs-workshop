@@ -175,7 +175,7 @@ Algorithms fly the airplanes, forecast weather. They run factories, tell us driv
 
 @title[What is Programming?]
 
-`Programming is the act of taking complicated human ideas and breaking them down into simple algorithms that computers can understand and follow.`
+> `Programming is the act of taking complicated human ideas and breaking them down into simple algorithms that computers can understand and follow.`
 
 A Programmer creates algorithms and codes them up in human friendly language like `Java` or `Python`
 
@@ -219,7 +219,7 @@ Note: The best new movie production company in many decades, Pixar, was a softwa
 
 * It's very creative profession as much like a musician or a painter.
 
-* You create new things that doesn't exist before.
+* Programming is fundamentally about creating  solutions to problems. 
 
 +++
 
@@ -266,14 +266,47 @@ As per US-BLS projections, computing will be the safest STEM career options for 
 With the internet, you can literally work from any where in the world.
 
 ---
-## What are the triats for becoming software developer?
+## What are the triats for becoming Software engineer?
+@title[Triats of a Software Engineer]
 
-@title[Trias of programmers]
+### Love making things for other people to use
 
-* Being Lazy
-* Experimenting and Research
-* Right mix of creativity (Arts) and logic (Engineering)
-* Continous learning
+* At end of the day, you have created something that didn't exist that morning.
+
++++
+
+### Enjoy solving puzzles
+
+* You should be passionate about progressing from a unknown state to arriving at a working solution to a problem.
+
++++
+
+### Like Experimenting and Research
+
+* You like conduction experiments, you will try something, if it doesn't work scratch that off and try different approach.
+* You also like doing research, you have to search the web, read the documentation, refer the books to come up with a solution.
+
++++
+
+### You want to make things easier
+
+> Bill Gates said he would always 'hire a lazy person to do a difficult job' at Microsoft 'because a lazy person will find an easy way to do it'
+
+### You have interest in both Arts and Engineering.
+
+* Software engineering utilizes right mix of both Artistic and Engineering skills.
+* Writing a program is an art like writing a poem at the same time it needs applying logical skills to solve the problem.
+
++++
+
+According to Steve Jobs -- The greatest innovations come from the intersection of technology and arts.
+<img src="assets/image/Apples_DNA.png" alt="Apples_DNA" width="500px" height="400px">
+
++++
+
+### The Joy of Continous learning
+
+* You need to continously learn new things and keep up ever changing technology.
 
 ---
 
