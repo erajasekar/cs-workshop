@@ -68,7 +68,7 @@ Just like billions of neurons fire in our Human brain based on visual, auditory 
 
 > `Computer is a electronic machine that can be programmed to do zillions of different tasks.`
 
-<p class="fragment"> It could do anything from adding two numbers to flying an airplane.</p>
+It could do anything from adding two numbers to flying an airplane.
 
 +++
 @title[Essential components of the computers]
@@ -129,9 +129,9 @@ Like keyboard, touch screen, scanner etc
 
 +++
 
-#### Output interface
-
 ### A Computer has
+
+#### Output interface
 
 Like Monitor, Speaker, Printer, etc
 
@@ -189,7 +189,7 @@ A Programmer creates algorithms and codes them up in human friendly language lik
 
 Software is collection of programs that are written in language humans can understand and then they are converted into binary that computers can execute them.
 
-*Softwares run computers, smart phones, ATM machines, Billing machines.*
+*Softwares run computers, smart phones, ATMs, Billing machines.*
 
 ---
 
@@ -278,6 +278,7 @@ With the internet, you can literally work from any where in the world.
 ### Love making things for other people to use
 
 * At end of the day, you have created something that didn't exist that morning.
+* You feel happy when people use the product you created.
 
 +++
 
@@ -296,9 +297,9 @@ With the internet, you can literally work from any where in the world.
 
 ### You want to make things easier in life.
 
-Bill Gates said he would always "hire a lazy person to do a difficult job" at Microsoft.
+Microsoft's founder Bill Gates said he would always "hire a lazy person to do a difficult job" 
 
-*because a lazy person will find an easy way to do it*
+Because *A lazy person will find an easy way to do it*.
 
 +++
 
@@ -320,7 +321,7 @@ According to Steve Jobs -- The greatest innovations come from the intersection o
 
 ---
 
-## What's fascinating about future of Computers?
+## What's fascinating about Computers today?
 
 What if we can teach Computers to learn by itself.
 
@@ -330,27 +331,32 @@ We are heading towards making machines to learn and creating artificial intellig
 
 ### What is Machine learning?
 
-Machine learning makes computers to learn skills that humans can't explain.
+* Machine learning makes computers to learn skills that humans can't explain.
 
-Machine learning works by analysing large data set of examples and figuring out Algorithm.
+* It figures out Algorithm by analysing large set of sample data.
 
-We can think of machine learning as inverse of programming just like Square root is inverse of Square.
+* We can think of machine learning as inverse of programming just like Square root is inverse of Square.
 
-With machine learning, computers write their own programs, so we don’t have to.
-
-+++
-
-### Machine learning makes computer learn human skills
-
-* [AutoDraw](https://www.autodraw.com/) uses the magic of machine learning with drawings from talented artists to help everyone create anything visual, fast. 
-* Computers had learned to recognize our face, our voice, handwriting , etc.
+* With machine learning, computers write their own programs, so we don’t have to.
 
 +++
 
-### Robots are becoming part of your lives
+### Can Computer learn human skills?
 
-* iRobot vaccum can find it's way through your home to clean.
-* Siri , Alexa, Google Assistant are able to answer our questions just like humans.
+* Yes with help of Machine learning |
+* [AutoDraw](https://www.autodraw.com/) uses the magic of machine learning with drawings from talented artists to help everyone create anything visual, fast. |
+* Computers have learned to recognize our face, our voice, handwriting , etc. |
+
++++
+
+### Robots are becoming our companion
+
+iRobot vaccum can find it's way through your home to clean.
+<img src="assets/image/irobot.jpg" alt="Apples_DNA" width="500px" height="400px">
+
++++
+Siri , Alexa, Google Assistant are able to answer our questions just like humans.
+<img src="assets/image/alexa-siri.jpg" alt="Apples_DNA" width="500px" height="400px">
 
 +++
 
@@ -362,10 +368,18 @@ With machine learning, computers write their own programs, so we don’t have to
 
 +++
 
+### IBM Watson : Answering super computer
+
+* capable of answering questions posed in natural language.
+* Competed on Jeopardy! contest winning first prize former winners Brad Rutter and Ken Jennings.
+* Watson learnt  encyclopedias, dictionaries, thesauri, newswire articles, and literary works TODO
+* Watson can process about million books, per second.
+
+
 ### How will future look like?
 
 * Self driving cars will become common on the road.
-* Every home will have some kind of a Bot.
+* Bots will become part of our daily life.
 * All devices in your house will be a smart device like smart phones.
 * You will be helped by Chat Bots and Virtual assitants on the internet.
 
