@@ -1,7 +1,5 @@
 ## What you need to know about Computers and Programming Job?
 
-##### How to get started on programming?
-
 ---
 
 ## Introduction
@@ -31,7 +29,7 @@ Infact, the hardware inside the computer doesn't know anything other than 0’s 
 +++
 @title[Everything is stored as binary]
 
-So all the videos, music and textual information you see in computers are stored as just 0’s and 1’s in hardware. 
+So, all the videos, music and textual information you see in computers are stored as just 0’s and 1’s in hardware. 
 
 ---
 
@@ -84,6 +82,7 @@ Just like billions of neurons fire in our Human brain based on visual, auditory 
 * The speed of the proccessor determines how fast computer can do the tasks.
 
 +++
+### A Computer has
 
 #### Memory
 
@@ -122,6 +121,8 @@ Just like billions of neurons fire in our Human brain based on visual, auditory 
 </table>
 
 +++
+### A Computer has
+
 #### Input interface
 
 Like keyboard, touch screen, scanner etc
@@ -129,6 +130,8 @@ Like keyboard, touch screen, scanner etc
 +++
 
 #### Output interface
+
+### A Computer has
 
 Like Monitor, Speaker, Printer, etc
 
@@ -184,9 +187,9 @@ A Programmer creates algorithms and codes them up in human friendly language lik
 ## What is Software?
 @title[What is Software?]
 
-Software is collection of programs that are written in language humans can understand and then they are converted into binary that computers can understand to execute them.
+Software is collection of programs that are written in language humans can understand and then they are converted into binary that computers can execute them.
 
-Softwares run computers, smart phones, ATM machines, Billing machines.
+*Softwares run computers, smart phones, ATM machines, Billing machines.*
 
 ---
 
@@ -198,7 +201,7 @@ Softwares run computers, smart phones, ATM machines, Billing machines.
 
 * Two decades into the rise of the modern Internet
   ​
-* All of the technology required to transform every industry through software possible today.
+* *All of the technology required to transform every industry through software possible today.*
 
 +++
 
@@ -287,13 +290,15 @@ With the internet, you can literally work from any where in the world.
 ### Like Experimenting and Research
 
 * You like conduction experiments, you will try something, if it doesn't work scratch that off and try different approach.
-* You also like doing research, you have to search the web, read the documentation, refer the books to come up with a solution.
+* You also like doing research, you search the web, read the documentation, refer the books to come up with a solution.
 
 +++
 
-### You want to make things easier
+### You want to make things easier in life.
 
-Bill Gates said he would always 'hire a lazy person to do a difficult job' at Microsoft 'because a lazy person will find an easy way to do it'
+Bill Gates said he would always "hire a lazy person to do a difficult job" at Microsoft.
+
+*because a lazy person will find an easy way to do it*
 
 +++
 
@@ -326,22 +331,25 @@ We are heading towards making machines to learn and creating artificial intellig
 ### What is Machine learning?
 
 Machine learning makes computers to learn skills that humans can't explain.
+
 Machine learning works by analysing large data set of examples and figuring out Algorithm.
+
 We can think of machine learning as inverse of programming just like Square root is inverse of Square.
+
 With machine learning, computers write their own programs, so we don’t have to.
 
 +++
 
 ### Machine learning makes computer learn human skills
 
-* [AutoDraw](https://www.autodraw.com/) is a that pairs the magic of machine learning with drawings from talented artists to help everyone create anything visual, fast. 
-* Computers can recognize our face, our voice, handwriting , etc.
+* [AutoDraw](https://www.autodraw.com/) uses the magic of machine learning with drawings from talented artists to help everyone create anything visual, fast. 
+* Computers had learned to recognize our face, our voice, handwriting , etc.
 
 +++
 
 ### Robots are becoming part of your lives
 
-* iRobot vaccum can find it's way through your home to clean everywhere.
+* iRobot vaccum can find it's way through your home to clean.
 * Siri , Alexa, Google Assistant are able to answer our questions just like humans.
 
 +++
@@ -363,23 +371,29 @@ With machine learning, computers write their own programs, so we don’t have to
 
 ---
 
+## How many of you are interested in Programming?
+
+---
+
 ## How to Get Started on learning to Program?
 
 * https://code.org/ — The most well known and popular project that teaches kids to code.
 * http://lightbot.com/ — This mobile game starts really easy and adds more and more complex concepts over time eventually getting quite challenging. 
 * https://www.codingame.com/start — is aimed at more experienced and older kids, teaching more complex techniques
-* https://www.allcancode.com/home — Uses visual programming language to learn how to code and build amazing apps
-* http://scratch.mit.edu/ You can program your own interactive stories, games, and animations.
-* [Lego mind storms](http://www.lego.com/en-us/mindstorms/?domainredir=mindstorms.lego.com) -- build programmable robots based on Lego building blocks.
-* https://www.khanacademy.org/>  — Build apps using Javascript guided by video tutorials.
 
 +++
 
-### Books
+* https://www.allcancode.com/home — Uses visual programming language to learn how to code and build amazing apps
+* http://scratch.mit.edu/ You can program your own interactive stories, games, and animations.
+* [Lego mind storms](http://www.lego.com/en-us/mindstorms/?domainredir=mindstorms.lego.com) -- build programmable robots based on Lego building blocks.
 
++++
+
+* https://www.khanacademy.org/>  — Build apps using Javascript guided by video tutorials.
 * [Python-Kids-Playful-Introduction-Programming](http://www.amazon.com/Python-Kids-Playful-Introduction-Programming/dp/1593274076)
 * [Hello World!: Computer Programming for Kids and Other Beginners](http://amzn.com/1617290920)
- 
+
+---
 
 ## Credits
 
