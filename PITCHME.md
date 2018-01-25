@@ -30,6 +30,7 @@ Infact, the hardware inside the computer doesn't know anything other than 0’s 
 @title[Everything is stored as binary]
 
 So, all the videos, music and textual information you see in computers are stored as just 0’s and 1’s in hardware. 
+<img src="assets/image/broad.jpg" alt="Computing Demand" width="500px" height="400px">
 
 ---
 
@@ -349,13 +350,13 @@ We are heading towards making machines to learn and creating artificial intellig
 
 +++
 
-### Robots are becoming our companion
+### Robots are becoming our assistants
 
 iRobot vaccum can find it's way through your home to clean.
 <img src="assets/image/irobot.jpg" alt="Apples_DNA" width="500px" height="400px">
 
 +++
-Siri , Alexa, Google Assistant are able to answer our questions just like humans.
+Siri , Alexa, Google Now are able to answer our questions just like humans.
 <img src="assets/image/alexa-siri.jpg" alt="Apples_DNA" width="500px" height="400px">
 
 +++
@@ -370,11 +371,12 @@ Siri , Alexa, Google Assistant are able to answer our questions just like humans
 
 ### IBM Watson : Answering super computer
 
-* capable of answering questions posed in natural language.
-* Competed on Jeopardy! contest winning first prize former winners Brad Rutter and Ken Jennings.
-* Watson learnt  encyclopedias, dictionaries, thesauri, newswire articles, and literary works TODO
+* Can answer questions asked in natural human language.
+* Won the first prize against former winners Brad Rutter and Ken Jennings in Jeopardy TV contest.
+* Watson has got all the knowledge of encyclopedias, dictionaries, newswire articles, and literary works.
 * Watson can process about million books, per second.
 
++++
 
 ### How will future look like?
 
@@ -382,6 +384,7 @@ Siri , Alexa, Google Assistant are able to answer our questions just like humans
 * Bots will become part of our daily life.
 * All devices in your house will be a smart device like smart phones.
 * You will be helped by Chat Bots and Virtual assitants on the internet.
+* We will able to cure deadly diseases like Cancer using Machine learning.
 
 ---
 
