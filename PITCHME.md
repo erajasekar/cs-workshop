@@ -30,7 +30,7 @@ Infact, the hardware inside the computer doesn't know anything other than 0’s 
 @title[Everything is stored as binary]
 
 All the videos, music and textual information you see in computers are stored as just 0’s and 1’s in hardware. 
-<img src="assets/image/broad.jpg" alt="Computing Demand" width="600px" height="350px">
+<img src="assets/image/broad.jpg" alt="Computer hardware binary" width="600px" height="350px">
 
 ---
 
@@ -47,13 +47,13 @@ Note: Discuss about conductors and insulators.
 
 ## What's inside Computers?
 
-> Computers are made of billions of tiny ***transistors*** which can be programmed to flip states between 0 and 1 using electrical signals.
+> `Computers are made of billions of tiny ***transistors*** which can be programmed to flip states between 0 and 1 using electrical signals.`
 
 +++
 
 Just like billions of neurons fire in our Human brain based on visual, auditory or sensory signal.
 
-<img src="assets/image/brain-transistor.png" alt="impact millions" width="500px" height="400px">
+<img src="assets/image/brain-transistor.png" alt="Transistors inside brain" width="500px" height="400px">
 
 ---
 
@@ -146,6 +146,14 @@ We need to provide a sequence of instructions telling a computer to what to do w
 
 +++
 
+### Algorithm example
+
+ Algorithm to tell if temperature is Below or Above the Freezing Point
+
+<img src="assets/image/algorithm-example.png" alt="Algorithm to tell temperature is freezing point" width="400px" height="300px">
+
++++
+
 ### How transistors execute Algorithms?
 
 Transistors are combined to create ***logic gates*** that can perform logical operations like ***AND***, ***OR***, ***NOT***
@@ -154,11 +162,11 @@ Every algorithm, no matter how complex, can be reduced to just these three opera
 
 +++
 
-### Algorithm example
+### Algorithm logic gates example
 
 if a fever can be caused by influenza or malaria, and you should take Tylenol for a fever and a headache
 
-<img src="assets/image/algorithm-logic.png" alt="impact millions" width="400px" height="300px">
+<img src="assets/image/algorithm-logic.png" alt="Algorithm that uses transistor logical operations" width="400px" height="300px">
 
 +++
 
@@ -188,9 +196,16 @@ A Programmer creates algorithms and codes them up in human friendly language lik
 ## What is Software?
 @title[What is Software?]
 
-Software is collection of programs that are written in language humans can understand and then they are converted into binary that computers can execute them.
+> Software is collection of programs that are written in language humans can understand and then they are converted into binary that computers can execute them.
 
-*Softwares run computers, smart phones, ATMs, Billing machines.*
+Without Software the hardware devices would just sitting idle.
+
++++
+
+## Software run every device
+Softwares run computers, smart phones, ATMs, Billing machines.
+
+<img src="assets/image/software.jpg" alt="Software" width="500px" height="400px">
 
 ---
 
@@ -238,7 +253,7 @@ You will solve problems to make people's life better.
 
 ### Impact millions of people quickly
 
-<img src="assets/image/50-million-angry-bird.png" alt="impact millions" width="500px" height="400px">
+<img src="assets/image/50-million-angry-bird.png" alt="impact million users" width="500px" height="400px">
 
 Telephone took 75 years, Internet took 4 years however Angry Birds took only 35 days!!
 
@@ -252,7 +267,7 @@ Software engineering is a team sport and you work together to build amazing thin
 
 ### Future proof
 
-<img src="assets/image/STEM-Growth-Aggreg-2024.png" alt="Computing Demand" width="500px" height="400px">
+<img src="assets/image/STEM-Growth-Aggreg-2024.png" alt="Computing Job Demand" width="500px" height="400px">
 
 As per US-BLS projections, computing will be the safest STEM career options for the foreseeable future.
 
@@ -316,7 +331,7 @@ According to Steve Jobs -- The greatest innovations come from the intersection o
 
 +++
 
-### You have Joy in Continous learning
+### You are a Curious learner
 
 * You need to continously learn new things and keep up ever changing technology.
 
@@ -353,11 +368,11 @@ We are heading towards making machines to learn and creating artificial intellig
 ### Robots are becoming our assistants
 
 iRobot vaccum can find it's way through your home to clean.
-<img src="assets/image/irobot.jpg" alt="Apples_DNA" width="500px" height="400px">
+<img src="assets/image/irobot.jpg" alt="iRobot" width="500px" height="400px">
 
 +++
 Siri , Alexa, Google Now are able to answer our questions just like humans.
-<img src="assets/image/alexa-siri.jpg" alt="Apples_DNA" width="500px" height="400px">
+<img src="assets/image/alexa-siri.jpg" alt="Siri , Alexa, Google Now" width="500px" height="400px">
 
 +++
 
