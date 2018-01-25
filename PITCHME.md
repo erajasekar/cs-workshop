@@ -47,7 +47,7 @@ Note: Discuss about conductors and insulators.
 
 ## What's inside Computers?
 
-> `Computers are made of billions of tiny ***transistors*** which can be programmed to flip states between 0 and 1 using electrical signals.`
+> Computers are made of billions of tiny ***transistors*** which can be programmed to flip states between 0 and 1 using electrical signals.
 
 +++
 
@@ -150,7 +150,7 @@ We need to provide a sequence of instructions telling a computer to what to do w
 
  Algorithm to tell if temperature is Below or Above the Freezing Point
 
-<img src="assets/image/algorithm-example.png" alt="Algorithm to tell temperature is freezing point" width="400px" height="300px">
+<img src="assets/image/algorithm-example.png" alt="Algorithm to tell temperature is freezing point" width="300px" height="300px">
 
 +++
 
@@ -166,7 +166,7 @@ Every algorithm, no matter how complex, can be reduced to just these three opera
 
 if a fever can be caused by influenza or malaria, and you should take Tylenol for a fever and a headache
 
-<img src="assets/image/algorithm-logic.png" alt="Algorithm that uses transistor logical operations" width="400px" height="300px">
+<img src="assets/image/algorithm-logic.png" alt="Algorithm that uses transistor logical operations" width="350px" height="350px">
 
 +++
 
@@ -198,7 +198,7 @@ A Programmer creates algorithms and codes them up in human friendly language lik
 
 > Software is collection of programs that are written in language humans can understand and then they are converted into binary that computers can execute them.
 
-Without Software the hardware devices would just sitting idle.
+Without Software the hardware devices would be idle.
 
 +++
 
@@ -262,6 +262,8 @@ Telephone took 75 years, Internet took 4 years however Angry Birds took only 35 
 ### Colloborative 
 
 Software engineering is a team sport and you work together to build amazing things.
+
+<img src="assets/image/teamwork.jpg" alt="teamwork" width="700px" height="400px">
 
 +++
 
