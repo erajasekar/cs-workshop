@@ -200,13 +200,7 @@ Softwares run computers, smart phones, ATMs, Billing machines.
 
 ## Why Software is Eating the World?
 
-* Six decades after the computer revolution
-
-* Four decades since the invention of the microprocessor
-
-* Two decades into the rise of the modern Internet
-  ​
-* *All of the technology required to transform every industry through software possible today.*
+<img src="assets/image/software-eating-world.png" alt="Software Eating World" width="500px" height="350px">
 
 +++
 
