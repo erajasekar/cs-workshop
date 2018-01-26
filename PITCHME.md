@@ -361,9 +361,9 @@ We are heading towards making machines to learn and creating artificial intellig
 
 ### Can Computer learn human skills?
 
-* Yes with help of Machine learning |
-* [AutoDraw](https://www.autodraw.com/) uses the magic of machine learning with drawings from talented artists to help everyone create anything visual, fast. |
-* Computers have learned to recognize our face, our voice, handwriting , etc. |
+- Yes with help of Machine learning |
+- [AutoDraw](https://www.autodraw.com/) uses the magic of machine learning with drawings from talented artists to help everyone create anything visual, fast. |
+- Computers have learned to recognize our face, our voice, handwriting , etc. |
 
 +++
 
@@ -378,18 +378,30 @@ Siri , Alexa, Google Now are able to answer our questions just like humans.
 
 +++
 
-### Computers beat human world champions.
+### Computers beat world Chess champion.
 
-* Deep Blue (Chess computer) beat World Chess Champion Garry Kasparov in 1997.
-* In 2015, AlphaGo beat Go world Ke Jie. 
-* Go is very complex game compared to Chess, it won't be possible without machine learning.
+IBM's Chess computer Deep Blue beat world Chess Champion Garry Kasparov in 1997.
+
+<img src="assets/image/deepblue.jpg" alt="AlphaGo DeepMind" width="600px" height="350px">
+
++++ 
+
+### AlphaGo beats world Go champion Lee Sedol 
+
+Go is very complex game compared to Chess, it won't be possible without machine learning.
+
+<img src="assets/image/alphago.png" alt="AlphaGo DeepMind" width="600px" height="300px">
 
 +++
 
-### IBM Watson : Answering super computer
+### The supercomputer IBM Watson
 
-* Can answer questions asked in natural human language.
-* Won the first prize against former winners Brad Rutter and Ken Jennings in Jeopardy TV contest.
+Watson won the first prize against former winners Brad Rutter and Ken Jennings in Jeopardy TV contest.
+<img src="assets/image/Watson.jpg" alt="Siri , Alexa, Google Now" width="500px" height="350px">
+
++++
+
+* Watson can understand human's natural language and answer questions.
 * Watson has got all the knowledge of encyclopedias, dictionaries, newswire articles, and literary works.
 * Watson can process about million books, per second.
 
