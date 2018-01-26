@@ -368,10 +368,10 @@ We are heading towards making machines to learn and creating artificial intellig
 </ul>
 
 +++
-
 ### Robots are becoming our assistants
 
 iRobot vaccum can find it's way through your home to clean.
+
 <img src="assets/image/irobot.jpg" alt="iRobot" width="300px" height="200px">
 
 +++
