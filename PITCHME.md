@@ -51,6 +51,7 @@ Note: Discuss about conductors and insulators.
 > Computers are made of billions of tiny ***transistors*** which can be programmed to flip states between 0 and 1 using electrical signals.
 
 +++
+@title[Human brain and Computers]
 
 Just like billions of neurons fire in our Human brain based on visual, auditory or sensory signal.
 
@@ -128,8 +129,9 @@ That's why touch screen devices are very easy use.
 ---
 
 ## How do you tell Computers to do something?
-@title[What are Algorithms?]
+
 +++
+@title[What are Algorithms?]
 
 We need to provide a sequence of instructions telling a computer to what to do which is called as ***Algorithms***.
 
@@ -200,7 +202,7 @@ Softwares run computers, smart phones, ATMs, Billing machines.
 
 ## Why Software is Eating the World?
 
-<img src="assets/image/software-eating-world.png" alt="Software Eating World" width="500px" height="350px">
+<img src="assets/image/software-eating-world.png" alt="Software Eating World" width="500px" height="500px">
 
 +++
 
@@ -361,8 +363,12 @@ iRobot vaccum can find it's way through your home and clean.
 <img src="assets/image/irobot.jpg" alt="iRobot" width="700px" height="350px">
 
 +++
+
+@title[Robots can answer our questions]
+
 Siri , Alexa, Google Now are able to answer our questions just like humans.
-<img src="assets/image/alexa-siri.jpg" alt="Siri , Alexa, Google Now" width="500px" height="400px">
+
+<img src="assets/image/alexa-siri.jpg" alt="Siri , Alexa, Google Now" width="700px" height="350px">
 
 +++
 
@@ -388,6 +394,7 @@ Watson won the first prize against former winners Brad Rutter and Ken Jennings i
 <img src="assets/image/watson.jpg" alt="IBM watson" width="500px" height="350px">
 
 +++
+@title[Power of IBM Watson]
 
 <img src="assets/image/watson-logo.png" alt="IBM watson logo" width="350px" height="150px">
 
@@ -418,12 +425,14 @@ Watson won the first prize against former winners Brad Rutter and Ken Jennings i
 * https://www.codingame.com/start — is aimed at more experienced and older kids, teaching more complex techniques
 
 +++
+@title[Learn programming resources]
 
 * https://www.allcancode.com/home — Uses visual programming language to learn how to code and build amazing apps
 * http://scratch.mit.edu/ You can program your own interactive stories, games, and animations.
 * [Lego mind storms](http://www.lego.com/en-us/mindstorms/?domainredir=mindstorms.lego.com) -- build programmable robots based on Lego building blocks.
 
 +++
+@title[Learn programming resources continued]
 
 * https://www.khanacademy.org/>  — Build apps using Javascript guided by video tutorials.
 * [Python-Kids-Playful-Introduction-Programming](http://www.amazon.com/Python-Kids-Playful-Introduction-Programming/dp/1593274076)
