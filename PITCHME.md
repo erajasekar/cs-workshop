@@ -73,13 +73,25 @@ Just like billions of neurons fire in our Human brain based on visual, auditory 
 It could do anything from adding two numbers to flying an airplane.
 
 +++
-@title[Essential components of the computers]
-### Components of Computer
+@title[Components of A Computer CPU]
+### Components of A Computer CPU
 
 <img src="assets/image/computer-components3.png" alt="Components of Computer" width="500px" height="400px">
 
+Can you tell some Input and Output devices?
+
 +++
 
+### Components of A Computer with Input and Output
+<img src="assets/image/computer-components2.png" alt="Components of Computer" width="500px" height="400px">
+
+Can same device be used for both Input and Output?
++++
+
+### Components of A Computer
+<img src="assets/image/computer-components3.png" alt="Components of Computer" width="500px" height="400px">
+
+That's why touch screen devices are very easy use.
 ### A Computer has
 
 #### Processor
