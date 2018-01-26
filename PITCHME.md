@@ -151,7 +151,7 @@ We need to provide a sequence of instructions telling a computer to what to do w
 
  Algorithm to tell if temperature is Below or Above the Freezing Point
 
-<img src="assets/image/algorithm-example.png" alt="Algorithm to tell temperature is freezing point" width="300px" height="300px">
+<img src="assets/image/algorithm-example.png" alt="Algorithm to tell temperature is freezing point" width="400px" height="400px">
 
 +++
 
@@ -206,7 +206,7 @@ Without Software the hardware devices would be idle.
 ## Software run every device
 Softwares run computers, smart phones, ATMs, Billing machines.
 
-<img src="assets/image/software.jpg" alt="Software" width="500px" height="400px">
+<img src="assets/image/software.jpg" alt="Software" width="500px" height=380px">
 
 ---
 
@@ -268,7 +268,7 @@ Software engineering is a team sport and you work together to build amazing thin
 
 +++
 
-### Future proof
+### Future demand
 
 <img src="assets/image/STEM-Growth-Aggreg-2024.png" alt="Computing Job Demand" width="500px" height="400px">
 
@@ -303,7 +303,9 @@ With the internet, you can literally work from any where in the world.
 
 ### Enjoy solving puzzles
 
-* You are passionate about making progress from a unknown state of a problem to arriving at a working solution.
+You are passionate about solving complex problems
+
+<img src="assets/image/problem-solved.jpg" alt="problem solved" width="480px" height="350px">
 
 +++
 
