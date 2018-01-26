@@ -76,38 +76,24 @@ It could do anything from adding two numbers to flying an airplane.
 @title[Components of A Computer CPU]
 ### Components of A Computer CPU
 
-<img src="assets/image/computer-components3.png" alt="Components of Computer" width="500px" height="400px">
+<img src="assets/image/computer-components1.png" alt="Components of Computer" width="500px" height="400px">
 
 Can you tell some Input and Output devices?
 
 +++
 
 ### Components of A Computer with Input and Output
+
 <img src="assets/image/computer-components2.png" alt="Components of Computer" width="500px" height="400px">
 
 Can same device be used for both Input and Output?
 +++
 
 ### Components of A Computer
+
 <img src="assets/image/computer-components3.png" alt="Components of Computer" width="500px" height="400px">
 
 That's why touch screen devices are very easy use.
-### A Computer has
-
-#### Processor
-
-* Does the computational work.
-
-* The speed of the proccessor determines how fast computer can do the tasks.
-
-+++
-### A Computer has
-
-#### Memory
-
-* Stores all the information.
-
-* Memory capacity basically indicates you how many 0's and 1's it can store
 
 +++
 
@@ -138,21 +124,6 @@ That's why touch screen devices are very easy use.
 		<td>= 1 Gigabyte (GB) </td>
 	</tr>
 </table>
-
-+++
-### A Computer has
-
-#### Input interface
-
-Like keyboard, touch screen, scanner etc
-
-+++
-
-### A Computer has
-
-#### Output interface
-
-Like Monitor, Speaker, Printer, etc
 
 ---
 
