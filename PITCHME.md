@@ -74,6 +74,11 @@ It could do anything from adding two numbers to flying an airplane.
 
 +++
 @title[Essential components of the computers]
+### Components of Computer
+
+<img src="assets/image/computer-components3.png" alt="Components of Computer" width="500px" height="400px">
+
++++
 
 ### A Computer has
 
@@ -206,7 +211,7 @@ Without Software the hardware devices would be idle.
 ## Software run every device
 Softwares run computers, smart phones, ATMs, Billing machines.
 
-<img src="assets/image/software.jpg" alt="Software" width="500px" height=380px">
+<img src="assets/image/software.jpg" alt="Software" width="500px" height="380px">
 
 ---
 
@@ -291,7 +296,7 @@ As per US-BLS projections, computing will be the safest STEM career options for 
 With the internet, you can literally work from any where in the world.
 
 ---
-## What are the triats for becoming Software engineer?
+## What traits should I have to become Software engineer?
 
 +++
 ### Love making things for other people to use
@@ -318,9 +323,9 @@ You are passionate about solving complex problems
 
 ### You want to make things easier in life.
 
-Microsoft's founder Bill Gates said he would always "hire a lazy person to do a difficult job" 
+Microsoft's founder Bill Gates said he would always  *"hire a lazy person to do a difficult job"*
 
-Because *A lazy person will find an easy way to do it*.
+Because **A lazy person will find an easy way to do it**.
 
 +++
 
@@ -374,7 +379,7 @@ We are heading towards making machines to learn and creating artificial intellig
 +++
 ### Robots are becoming our assistants
 
-iRobot vaccum can find it's way through your home to clean.
+iRobot vaccum can find it's way through your home and clean.
 
 <img src="assets/image/irobot.jpg" alt="iRobot" width="700px" height="350px">
 
@@ -419,7 +424,7 @@ Watson won the first prize against former winners Brad Rutter and Ken Jennings i
 
 * Self driving cars will become common on the road.
 * Bots will become part of our daily life.
-* All devices in your house will be a smart device like smart phones.
+* All devices around us will be a smart device like smart phones.
 * You will be helped by Chat Bots and Virtual assitants on the internet.
 * We will able to cure deadly diseases like Cancer using Machine learning.
 
