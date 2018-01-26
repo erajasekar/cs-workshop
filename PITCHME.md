@@ -305,7 +305,7 @@ With the internet, you can literally work from any where in the world.
 
 You are passionate about solving complex problems
 
-<img src="assets/image/problem-solved.jpg" alt="problem solved" width="480px" height="350px">
+<img src="assets/image/problem-solved.jpg" alt="problem solved" width="550px" height="400px">
 
 +++
 
