@@ -397,7 +397,7 @@ Go is very complex game compared to Chess, it won't be possible without machine 
 ### The supercomputer IBM Watson
 
 Watson won the first prize against former winners Brad Rutter and Ken Jennings in Jeopardy TV contest.
-<img src="assets/image/Watson.jpg" alt="Siri , Alexa, Google Now" width="500px" height="350px">
+<img src="assets/image/watson.jpg" alt="IBM watson" width="500px" height="350px">
 
 +++
 
