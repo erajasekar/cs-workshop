@@ -202,7 +202,7 @@ Softwares run computers, smart phones, ATMs, Billing machines.
 
 ## Why Software is Eating the World?
 
-<img src="assets/image/software-eating-world.png" alt="Software Eating World" width="500px" height="500px">
+<img src="assets/image/software-eating-world.png" alt="Software Eating World" width="550px" height="500px">
 
 +++
 
@@ -368,7 +368,7 @@ iRobot vaccum can find it's way through your home and clean.
 
 Siri , Alexa, Google Now are able to answer our questions just like humans.
 
-<img src="assets/image/alexa-siri.jpg" alt="Siri , Alexa, Google Now" width="700px" height="350px">
+<img src="assets/image/alexa-siri.jpg" alt="Siri , Alexa, Google Now" width="800px" height="400px">
 
 +++
 
