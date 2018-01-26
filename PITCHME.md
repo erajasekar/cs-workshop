@@ -372,7 +372,7 @@ We are heading towards making machines to learn and creating artificial intellig
 
 iRobot vaccum can find it's way through your home to clean.
 
-<img src="assets/image/irobot.jpg" alt="iRobot" width="300px" height="200px">
+<img src="assets/image/irobot.jpg" alt="iRobot" width="800px" height="400px">
 
 +++
 Siri , Alexa, Google Now are able to answer our questions just like humans.
