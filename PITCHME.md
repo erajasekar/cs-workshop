@@ -332,6 +332,7 @@ Because *A lazy person will find an easy way to do it*.
 +++
 @title[Intersection of Arts and Technology]
 According to Steve Jobs -- The greatest innovations come from the intersection of technology and arts.
+
 <img src="assets/image/Apples_DNA.png" alt="Apples_DNA" width="500px" height="400px">
 
 +++
