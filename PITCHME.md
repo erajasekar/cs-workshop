@@ -361,16 +361,18 @@ We are heading towards making machines to learn and creating artificial intellig
 
 ### Can Computer learn human skills?
 
-- Yes with help of Machine learning |
-- [AutoDraw](https://www.autodraw.com/) uses the magic of machine learning with drawings from talented artists to help everyone create anything visual, fast. |
-- Computers have learned to recognize our face, our voice, handwriting , etc. |
+<ul class="fragment">
+	<li>Yes with help of Machine learning</li>
+	<li>[AutoDraw](https://www.autodraw.com/) uses the magic of machine learning with drawings from talented artists to help everyone create anything visual, fast.</li>
+	<li>Computers have learned to recognize our face, our voice, handwriting , etc.</li>
+</ul>
 
 +++
 
 ### Robots are becoming our assistants
 
 iRobot vaccum can find it's way through your home to clean.
-<img src="assets/image/irobot.jpg" alt="iRobot" width="500px" height="400px">
+<img src="assets/image/irobot.jpg" alt="iRobot" width="300px" height="200px">
 
 +++
 Siri , Alexa, Google Now are able to answer our questions just like humans.
