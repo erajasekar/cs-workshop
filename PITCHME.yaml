@@ -9,5 +9,6 @@ theme-override : assets/css/PITCHME.css
 highlight : hybrid
 logo : assets/image/cms.png
 transition : slide
+gatoken: UA-53694809-2
 #published : true
 footnote : "Rajasekar Elango"
