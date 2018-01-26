@@ -401,7 +401,7 @@ Watson won the first prize against former winners Brad Rutter and Ken Jennings i
 
 +++
 
-<img src="assets/image/watson-logo.png" alt="IBM watson logo" width="800px" height="350px">
+<img src="assets/image/watson-logo.png" alt="IBM watson logo" width="300px" height="150px">
 
 * Watson can understand human's natural language and answer questions.
 * Watson has got all the knowledge of encyclopedias, dictionaries, newswire articles, and literary works.
