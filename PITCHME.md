@@ -30,7 +30,8 @@ Infact, the hardware inside the computer doesn't know anything other than 0’s 
 @title[Everything is stored as binary]
 
 All the videos, music and textual information you see in computers are stored as just 0’s and 1’s in hardware. 
-<img src="assets/image/broad.jpg" alt="Computer hardware binary" width="600px" height="350px">
+
+<img src="assets/image/broad.jpg" alt="Computer hardware binary" width="700px" height="400px">
 
 ---
 
