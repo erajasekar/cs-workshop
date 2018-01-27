@@ -202,7 +202,7 @@ Softwares run computers, smart phones, ATMs, Billing machines.
 
 ---
 
-## Why Software industry is growing fast today?
+## Why Software industry is at rise today?
 
 <img src="assets/image/software-eating-world.png" alt="Software Eating World" width="550px" height="500px">
 
