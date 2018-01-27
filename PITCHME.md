@@ -436,7 +436,7 @@ Watson won the first prize against former winners Brad Rutter and Ken Jennings i
 +++
 @title[Learn programming resources continued]
 
-* https://www.khanacademy.org/>  — Build apps using Javascript guided by video tutorials.
+* https://www.khanacademy.org/  — Build apps using Javascript guided by video tutorials.
 * [Python-Kids-Playful-Introduction-Programming](http://www.amazon.com/Python-Kids-Playful-Introduction-Programming/dp/1593274076)
 * [Hello World!: Computer Programming for Kids and Other Beginners](http://amzn.com/1617290920)
 
