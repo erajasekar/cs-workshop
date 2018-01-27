@@ -6,6 +6,8 @@
 
 This is Rajasekar Elango, Software Engineer at Salesforce.com
 
+Note: I am Harshitha's dad. Harthitha studies in Ms. Diane's Lower elementary class.
+
 +++
 
 @title[About Audience]
@@ -24,23 +26,23 @@ Note: I encourage you to ask question whenever you have. Please don't hesitage.
 +++
 @title[Binary Introduction]
 
-Infact, the hardware inside the computer doesn't know anything other than 0’s and 1’s - refered as ***binary***
+Infact, the hardware inside the computer doesn't know anything other than 0’s and 1’s.
 
 +++
 @title[Everything is stored as binary]
 
-All the videos, music and textual information you see in computers are stored as just 0’s and 1’s in hardware. 
+All the videos, music and textual information you see in computers are stored as just 0’s and 1’s. 
 
 <img src="assets/image/broad.jpg" alt="Computer hardware binary" width="700px" height="400px">
 
 ---
 
-## Why the digital world is based on binary?
-@title[Why digital world is binary?]
+## Why the digital world has only 0 & 1?
+@title[Why digital world has only 0 and 1?]
 
 <p class="fragment">All the hardware is made from wonderful semiconductor material ***silicon***. </p>
 <p class="fragment"> It can easily change state between stop conducting ( **0** ) and start conducting ( **1** ) electricity through them. </p>
-<p class="fragment">Silicon is used to make a tiny device called ***transistor*** which stores one bit of 0 or 1. </p>
+<p class="fragment">Silicon is used to make a tiny device called ***transistor*** which stores one bit of 0 or 1 - refered as ***binary***. </p>
 
 Note: Discuss about conductors and insulators.
 
@@ -200,7 +202,7 @@ Softwares run computers, smart phones, ATMs, Billing machines.
 
 ---
 
-## Why Software is Eating the World?
+## Why Software industry is growing fast today?
 
 <img src="assets/image/software-eating-world.png" alt="Software Eating World" width="550px" height="500px">
 
@@ -252,7 +254,7 @@ Software engineering is a team sport and you work together to build amazing thin
 
 +++
 
-### Future demand
+### Future Proof
 
 <img src="assets/image/STEM-Growth-Aggreg-2024.png" alt="Computing Job Demand" width="500px" height="400px">
 
