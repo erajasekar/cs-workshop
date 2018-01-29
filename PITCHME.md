@@ -22,7 +22,7 @@ Note: I encourage you to ask question whenever you have. Please don't hesitage.
 
 <p class="fragment">Computers are really **stupid**. But it is very *fast*. </p>
 <p class="fragment">Humans are **smart**, but *slow*. </p>
-<p class="fragment">Computers can tirelessly do repetitive tasks while humans will get exhausted . </p>
+<p class="fragment">Computers can **tirelessly** do repetitive tasks while humans will get *exhausted* . </p>
 
 +++
 @title[Binary Introduction]
@@ -214,32 +214,30 @@ Softwares run computers, smart phones, XBox, Billing machines.
 
 <table>
 	<tr>
+		<td>Industry</td>
+		<td class="fragment"> Examples </td>
+	<tr>
+	<tr>
 		<td>Movies</td>
-		<td class="fragment"> — Animation, Netfix </td>
+		<td class="fragment"> Animation, Netfix </td>
 	<tr>
 	<tr>
 		<td>Games</td>
-		<td class="fragment"> — XBOX, Mobile Games </td>
+		<td class="fragment"> XBOX, Mobile Games </td>
 	<tr>
 	<tr>
 		<td>Retail</td>
-		<td class="fragment"> — Amazon, Online shopping </td>
+		<td class="fragment"> Amazon, Online shopping </td>
 	<tr>
 	<tr>
 		<td>Finance</td>
-		<td class="fragment"> — Stock market, Paypal </td>
+		<td class="fragment"> Stock market, Paypal </td>
 	<tr>
 	<tr>
 		<td>Education</td>
-		<td class="fragment"> — Youtube, Khanacademy, Udemy </td>
+		<td class="fragment"> Youtube, Khanacademy, Udemy </td>
 	<tr>
 </table>
-
-* Movies — Animation, Netfix
-* Games — XBOX, Mobile Games
-* Retail — Amazon, online shopping
-* Finance — Stock market, Paypal
-* Education — Youtube, KhanAcademy, Udemy
 
 If you learn programming, you can apply the skills in any domain you choose.
 
