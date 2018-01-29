@@ -174,10 +174,10 @@ Just like simple mathematical operations are combined to produce complex mathema
 Algorithms fly the airplanes, forecast weather, play games, tell us driving directions and so on.
 
 +++
-### Quiz
+### Quiz: Match Profession to Work
 
 <table>
-	<th><td colspan="2">Match Profession to Work</td></th>
+	<th><td colspan="2"></td></th>
 	<tr>
 		<td>Scientists</td>
 		<td>Make algorithms that connects both theories and devices</td>
@@ -192,7 +192,10 @@ Algorithms fly the airplanes, forecast weather, play games, tell us driving dire
 	</tr>
 </table>
 
-<table class="fragment">
++++
+
+### Answers: Match Profession to Work
+<table>
 	<th><td colspan="2">Answers</td></th>
 	<tr>
 		<td>Scientists</td>
