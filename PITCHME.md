@@ -196,7 +196,7 @@ Without Software the hardware devices would be idle.
 +++
 
 ## Software run every device
-Softwares run computers, smart phones, ATMs, Billing machines.
+Softwares run computers, smart phones, XBox, Billing machines.
 
 <img src="assets/image/software.jpg" alt="Software" width="500px" height="380px">
 
@@ -213,8 +213,10 @@ Softwares run computers, smart phones, ATMs, Billing machines.
 * Finance — Stock market, Paypal
 * Retail — Amazon, online shopping
 * Movies — Animation, Netfix
-* Telecom — Skype
+* Games — XBOX, Mobile Games
 * Education — KhanAcademy, Udemy
+
+If you learn programming, you can apply the skills in any domain you choose.
 
 Note: The best new movie production company in many decades, Pixar, was a software company. Disney — had to buy Pixar, a software company, to remain relevant in animated movies.
 
