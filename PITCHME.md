@@ -177,7 +177,6 @@ Algorithms fly the airplanes, forecast weather, play games, tell us driving dire
 ### Quiz: Match Profession to Work
 
 <table>
-	<th><td colspan="2"></td></th>
 	<tr>
 		<td>Scientists</td>
 		<td>Make algorithms that connects both theories and devices</td>
@@ -196,7 +195,6 @@ Algorithms fly the airplanes, forecast weather, play games, tell us driving dire
 
 ### Answers: Match Profession to Work
 <table>
-	<th><td colspan="2">Answers</td></th>
 	<tr>
 		<td>Scientists</td>
 		<td>Make theories.</td>
@@ -226,6 +224,12 @@ A Programmer creates algorithms and codes them up in human friendly language lik
 > Software is collection of programs that are written in language humans can understand and then they are converted into binary that computers can execute them.
 
 Without Software the hardware devices would be idle.
+
++++
+
+## Software diagram
+
+<img src="assets/image/software-hardware.png" alt="Software" width="500px" height="450px">
 
 +++
 
