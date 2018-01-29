@@ -171,13 +171,42 @@ Algorithms can be combined together to solve complex problems.
 
 Just like simple mathematical operations are combined to produce complex mathematical formulas.
 
-+++
-### Algorithms are everywhere
-
 Algorithms fly the airplanes, forecast weather, play games, tell us driving directions and so on.
 
-*Scientists make theories, and engineers make devices. Computer scientists make algorithms that connects both theories and devices.*
++++
+### Quiz
 
+<table>
+	<th><td colspan="2">Match Profession to Work</td></th>
+	<tr>
+		<td>Scientists</td>
+		<td>Make algorithms that connects both theories and devices</td>
+	</tr>
+	<tr>
+		<td>Engineers</td>
+		<td>Make theories</td>
+	</tr>
+	<tr>
+		<td>Computer scientists</td>
+		<td>Make devices</td>
+	</tr>
+</table>
+
+<table class="fragment">
+	<th><td colspan="2">Answers</td></th>
+	<tr>
+		<td>Scientists</td>
+		<td>Make theories.</td>
+	</tr>
+	<tr>
+		<td>Engineers</td>
+		<td>Make devices.</td>
+	</tr>
+	<tr>
+		<td>Computer scientists</td>
+		<td>Make algorithms that connects both theories and devices.</td>
+	</tr>
+</table>
 ---
 ## What is Programming?
 
