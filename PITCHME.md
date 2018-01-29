@@ -239,7 +239,7 @@ Softwares run computers, smart phones, XBox, Billing machines.
 	<tr>
 </table>
 
-If you learn programming, you can apply the skills in any domain you choose.
+<p class="fragment">If you learn programming, you can apply the skills in any domain you choose.</p>
 
 Note: The best new movie production company in many decades, Pixar, was a software company. Disney — had to buy Pixar, a software company, to remain relevant in animated movies.
 
