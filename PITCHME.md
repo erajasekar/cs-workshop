@@ -215,7 +215,7 @@ Softwares run computers, smart phones, XBox, Billing machines.
 <table>
 	<tr>
 		<td>Industry</td>
-		<td class="fragment"> Examples </td>
+		<td> Examples </td>
 	<tr>
 	<tr>
 		<td>Movies</td>
