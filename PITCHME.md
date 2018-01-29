@@ -22,6 +22,7 @@ Note: I encourage you to ask question whenever you have. Please don't hesitage.
 
 <p class="fragment">Computers are really **stupid**. But it is very *fast*. </p>
 <p class="fragment">Humans are **smart**, but *slow*. </p>
+<p class="fragment">Computers can tirelessly do repetitive tasks while humans will get exhausted . </p>
 
 +++
 @title[Binary Introduction]
@@ -67,6 +68,7 @@ Just like billions of neurons fire in our Human brain based on visual, auditory 
 
 - Instead, we invented a general purpose computer containing a assembly of transistors that can do many different things, depending on which transistors are swiched on and off.  
 
+Note: For eg. We don't need a separate device to play each game. We can play several games in a single computer or a phone.
 ---
 
 ## What is a Computer?
@@ -103,7 +105,7 @@ That's why touch screen devices are very easy use.
 #### How many of you know what does GB or MB mean in phone or computers?
 @title[What does GB Mean?]
 
-<p class="fragment"> Mega Bytes or Gigabytes is unit for measuring memory just like pounds for weight, ounces for liquid etc. </p>
+<p class="fragment"> Bytes or Gigabytes is unit for measuring memory just like pounds for weight, ounces for liquid etc. </p>
 
 <table class="fragment"> 
 	<tr>
@@ -141,7 +143,7 @@ We need to provide a sequence of instructions telling a computer to what to do w
 
 ### Algorithm example
 
- Algorithm to tell if temperature is Below or Above the Freezing Point
+Algorithm to tell if temperature is Below or Above the Freezing Point
 
 <img src="assets/image/algorithm-example.png" alt="Algorithm to tell temperature is freezing point" width="400px" height="400px">
 
@@ -172,7 +174,7 @@ Just like simple mathematical operations are combined to produce complex mathema
 +++
 ### Algorithms are everywhere
 
-Algorithms fly the airplanes, forecast weather. They run factories, tell us driving directions and so on.
+Algorithms fly the airplanes, forecast weather, play games, tell us driving directions and so on.
 
 *Scientists make theories, and engineers make devices. Computer scientists make algorithms that connects both theories and devices.*
 
@@ -210,11 +212,34 @@ Softwares run computers, smart phones, XBox, Billing machines.
 
 ### Every Industry is revolutioned by Software
 
-* Finance — Stock market, Paypal
-* Retail — Amazon, online shopping
+<table>
+	<tr>
+		<td>Movies</td>
+		<td class="fragment"> — Animation, Netfix </td>
+	<tr>
+	<tr>
+		<td>Games</td>
+		<td class="fragment"> — XBOX, Mobile Games </td>
+	<tr>
+	<tr>
+		<td>Retail</td>
+		<td class="fragment"> — Amazon, Online shopping </td>
+	<tr>
+	<tr>
+		<td>Finance</td>
+		<td class="fragment"> — Stock market, Paypal </td>
+	<tr>
+	<tr>
+		<td>Education</td>
+		<td class="fragment"> — Youtube, Khanacademy, Udemy </td>
+	<tr>
+</table>
+
 * Movies — Animation, Netfix
 * Games — XBOX, Mobile Games
-* Education — KhanAcademy, Udemy
+* Retail — Amazon, online shopping
+* Finance — Stock market, Paypal
+* Education — Youtube, KhanAcademy, Udemy
 
 If you learn programming, you can apply the skills in any domain you choose.
 
