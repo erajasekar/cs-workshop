@@ -22,7 +22,7 @@ Note: I encourage you to ask question whenever you have. Please don't hesitage.
 
 <p class="fragment">Computers are really **stupid**. But it is very *fast*. </p>
 <p class="fragment">Humans are **smart**, but *slow*. </p>
-<p class="fragment">Computers can **tirelessly** do repetitive tasks while humans will get *exhausted* . </p>
+<p class="fragment">Computers can **tirelessly** do repetitive tasks whereas humans will get *exhausted* . </p>
 
 +++
 @title[Binary Introduction]
@@ -32,7 +32,7 @@ Infact, the hardware inside the computer doesn't know anything other than 0’s 
 +++
 @title[Everything is stored as binary]
 
-All the videos, music and textual information you see in computers are stored as just 0’s and 1’s. 
+All the videos, music and textual information you see in computers are stored as just **0’s** and **1’s.**
 
 <img src="assets/image/broad.jpg" alt="Computer hardware binary" width="700px" height="400px">
 
@@ -66,7 +66,7 @@ Just like billions of neurons fire in our Human brain based on visual, auditory 
 
 - It will be super expensive, if we had to build a new computer for every different thing we want to do. 
 
-- Instead, we invented a general purpose computer containing a assembly of transistors that can do many different things, depending on which transistors are swiched on and off.  
+- Instead, we invented a general purpose computer containing a assembly of transistors that can do different things, depending on which transistors are swiched on and off.  
 
 Note: For eg. We don't need a separate device to play each game. We can play several games in a single computer or a phone.
 +++
