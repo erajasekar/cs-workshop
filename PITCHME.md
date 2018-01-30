@@ -73,9 +73,9 @@ Note: For eg. We don't need a separate device to play each game. We can play sev
 
 ## Quiz: Say True or False
 
-Computers can understand only english <span class="fragment"> False. </span>
+1. Computers can understand only english <span class="fragment"> - False. </span>
 
-Computers can do only limited number of tasks. <span class="fragment"> False. </span>
+2. Computers can do only limited number of tasks. <span class="fragment"> - False. </span>
 
 ---
 
@@ -142,7 +142,7 @@ That's why touch screen devices are very easy use.
 
 ## Quiz: Say True or False
 
-Computers can't do everything by itself<span class="fragment"> True. </span>
+Computers can't do everything by itself<span class="fragment"> - True. </span>
 
 ---
 
@@ -254,7 +254,7 @@ Softwares run computers, smart phones, XBox, Billing machines.
 
 ## Quiz: Say True or False
 
-Without Software the hardware devices would be idle. <span class="fragment"> True. </span>
+Without Software the hardware devices would be idle. <span class="fragment"> - True. </span>
 
 ---
 
@@ -299,7 +299,7 @@ Note: The best new movie production company in many decades, Pixar, was a softwa
 
 ## Quiz: Say True or False
 
-If you learn programming, you can apply the skills in any domain you choose.<span class="fragment">True</span>
+If you learn programming, you can apply the skills in any domain you choose.<span class="fragment"> - True</span>
 
 ---
 
