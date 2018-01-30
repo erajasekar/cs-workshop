@@ -324,7 +324,7 @@ You will solve problems to make people's life better.
 
 <img src="assets/image/50-million-angry-bird.png" alt="impact million users" width="500px" height="400px">
 
-Telephone took 75 years, Internet took 4 years however Angry Birds took only 35 days!!
+Telephone took 75 years, Internet took 4 years however Angry Birds took only 35 days!! to reach 50 Million users.
 
 +++
 
@@ -431,10 +431,15 @@ We are heading towards making machines to learn and creating artificial intellig
 
 +++
 
-### Can Computer learn human skills?
+### Quiz: Say True or False
+
+Can Computer learn human skills? <span class="fragment"> - True </span>
+
++++
+
+### Applications of Machine learning
 
 <ul class="fragment">
-	<li>Yes with help of Machine learning</li>
 	<li>[AutoDraw](https://www.autodraw.com/) uses the magic of machine learning with drawings from talented artists to help everyone create anything visual, fast.</li>
 	<li>Computers have learned to recognize our face, our voice, handwriting , etc.</li>
 </ul>
