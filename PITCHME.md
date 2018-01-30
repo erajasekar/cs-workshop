@@ -69,6 +69,7 @@ Just like billions of neurons fire in our Human brain based on visual, auditory 
 - Instead, we invented a general purpose computer containing a assembly of transistors that can do different things, depending on which transistors are swiched on and off.  
 
 Note: For eg. We don't need a separate device to play each game. We can play several games in a single computer or a phone.
+
 +++
 
 ## Quiz: Say True or False
@@ -236,8 +237,6 @@ A Programmer creates algorithms and codes them up in human friendly language lik
 @title[What is Software?]
 
 > Software is collection of programs that are written in language humans can understand and then they are converted into binary that computers can execute them.
-
-
 
 +++
 
