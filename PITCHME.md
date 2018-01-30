@@ -76,15 +76,13 @@ Note: For eg. We don't need a separate device to play each game. We can play sev
 
 1. Computers can understand only english <span class="fragment"> - False. </span>
 
-2. Computers can do only limited number of tasks. <span class="fragment"> - False. </span>
+2. Computers could do anything from adding two numbers to flying an airplane. <span class="fragment"> - True. </span>
 
 ---
 
 ## What is a Computer?
 
 > `Computer is a electronic machine that can be programmed to do zillions of different tasks.`
-
-It could do anything from adding two numbers to flying an airplane.
 
 +++
 @title[Components of A Computer CPU]
@@ -143,7 +141,7 @@ That's why touch screen devices are very easy use.
 
 ## Quiz: Say True or False
 
-Computers can't do everything by itself<span class="fragment"> - True. </span>
+Computers can do everything by itself<span class="fragment"> - False. </span>
 
 ---
 
@@ -250,6 +248,8 @@ A Programmer creates algorithms and codes them up in human friendly language lik
 Softwares run computers, smart phones, XBox, Billing machines.
 
 <img src="assets/image/software.jpg" alt="Software" width="500px" height="380px">
+
++++
 
 ## Quiz: Say True or False
 
