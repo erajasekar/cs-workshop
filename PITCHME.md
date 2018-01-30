@@ -69,6 +69,14 @@ Just like billions of neurons fire in our Human brain based on visual, auditory 
 - Instead, we invented a general purpose computer containing a assembly of transistors that can do many different things, depending on which transistors are swiched on and off.  
 
 Note: For eg. We don't need a separate device to play each game. We can play several games in a single computer or a phone.
++++
+
+## Quiz: Say True or False
+
+Computers can understand only english <span class="fragment"> False. </span>
+
+Computers can do only limited number of tasks. <span class="fragment"> False. </span>
+
 ---
 
 ## What is a Computer?
@@ -129,6 +137,12 @@ That's why touch screen devices are very easy use.
 		<td>= 1 Gigabyte (GB) </td>
 	</tr>
 </table>
+
++++
+
+## Quiz: Say True or False
+
+Computers can't do everything by itself<span class="fragment"> True. </span>
 
 ---
 
@@ -223,7 +237,7 @@ A Programmer creates algorithms and codes them up in human friendly language lik
 
 > Software is collection of programs that are written in language humans can understand and then they are converted into binary that computers can execute them.
 
-Without Software the hardware devices would be idle.
+
 
 +++
 
@@ -237,6 +251,10 @@ Without Software the hardware devices would be idle.
 Softwares run computers, smart phones, XBox, Billing machines.
 
 <img src="assets/image/software.jpg" alt="Software" width="500px" height="380px">
+
+## Quiz: Say True or False
+
+Without Software the hardware devices would be idle. <span class="fragment"> True. </span>
 
 ---
 
@@ -275,9 +293,13 @@ Softwares run computers, smart phones, XBox, Billing machines.
 	<tr>
 </table>
 
-<p class="fragment">If you learn programming, you can apply the skills in any domain you choose.</p>
-
 Note: The best new movie production company in many decades, Pixar, was a software company. Disney — had to buy Pixar, a software company, to remain relevant in animated movies.
+
++++
+
+## Quiz: Say True or False
+
+If you learn programming, you can apply the skills in any domain you choose.<span class="fragment">True</span>
 
 ---
 
