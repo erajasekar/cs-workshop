@@ -439,10 +439,9 @@ Can Computer learn human skills? <span class="fragment"> - True </span>
 
 ### Applications of Machine learning
 
-<ul class="fragment">
-	<li>[AutoDraw](https://www.autodraw.com/) uses the magic of machine learning with drawings from talented artists to help everyone create anything visual, fast.</li>
-	<li>Computers have learned to recognize our face, our voice, handwriting , etc.</li>
-</ul>
+- [AutoDraw](https://www.autodraw.com/) uses the magic of machine learning with drawings from talented artists to help everyone create anything visual, fast.
+
+- Computers have learned to recognize our face, our voice, handwriting , etc.
 
 +++
 ### Robots are becoming our assistants
