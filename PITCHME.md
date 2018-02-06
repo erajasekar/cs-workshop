@@ -120,7 +120,7 @@ That's why touch screen devices are very easy use.
 		<td>= Binary Digit 0 or 1 </td>
 	</tr>
 	<tr>
-		<td>8 Bytes </td>
+		<td>8 Bits </td>
 		<td>= 1 Byte </td>
 	</tr>
 	<tr>
