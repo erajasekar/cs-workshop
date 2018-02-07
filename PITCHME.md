@@ -15,16 +15,25 @@
 
 ---
 
-## Problem : Check if a number is prime using Search
+## Problem : Check if a number is prime
 
 Let's say we have all prime numbers stored in a collection `primes`
 
 ```java
 
-Array primes = [2,3,5,7,11,13,17,19,23,29,31,37,41,43,47,53,59,61,67,71,97]
+Array primes = [2, 3, 5, 7, 11,
+				13, 17, 19, 23, 29,
+				31, 37, 41, 43, 47,
+				53, 59, 61, 67, 71, 
+				73, 79, 83, 89, 97]
+```
++++
+
+@title[Check if a number is prime contd..]
 
 which can be looked up using : 
 
+```java
 primes[0] = 2
 primes[1] = 3
 ....
