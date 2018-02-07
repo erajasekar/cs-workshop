@@ -15,6 +15,18 @@
 
 ---
 
+## What is Flowchart?
+
+---
+
+## What are variables?
+
+---
+
+## How to represent collection of items?
+
+
+
 ## Problem : Check if a number is prime
 
 Let's say we have all prime numbers stored in a collection `primes`
@@ -46,6 +58,12 @@ Now, Given any number N ( N < 100), tell if the number isPrime by searching the 
 
 ---
 
-## Linear Search Algorithm
+## Sequencial Search Algorithm
 
-<img src="assets/image/prime-linear-search.png" alt="Primes Linear Search Algorithm" width="300px" height="450px">
+<img src="assets/image/prime-sequential-search.png" alt="Sequential Search Algorithm" width="300px" height="450px">
+
+---
+## Binary Search Algorithm
+
+<img src="assets/image/prime-binary-search.png" alt="Binary Search Algorithm" width="300px" height="450px">
+
