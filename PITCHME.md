@@ -42,6 +42,10 @@ primes[i] = n
 where 0 <= i <= 25
 
 ```
-Now, Given any number N ( N < 100), tell if the number isPrime by search the array `primes`
+Now, Given any number N ( N < 100), tell if the number isPrime by searching the array `primes`
 
 ---
+
+## Linear Search Algorithm
+
+<img src="assets/image/prime-linear-search.png" alt="Primes Linear Search Algorithm" width="300px" height="450px">
