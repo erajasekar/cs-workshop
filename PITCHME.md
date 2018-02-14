@@ -17,7 +17,16 @@
 
 ## What is Flowchart?
 
----
+> A Flowchart is a type of diagram used to represent algorithms.
++++
+
+### Flowchart Shapes
+
+<img src="assets/image/flowchart-shapes.png" alt="Flowchart Shapes" width="500px" height="450px">
+
+### Quiz: Match flowchart an Algorithm
+
+<img src="assets/image/flowchart-quiz.png" alt="Match flowchart to algorithms" width="600px" height="400px">
 
 ## What are variables?
 
