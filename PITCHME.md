@@ -29,19 +29,58 @@
 
 ### Quiz: Match flowchart an Algorithm
 
-<img src="assets/image/flowchart-quiz.png" alt="Match flowchart to algorithms" width="600px" height="400px">
+<img src="assets/image/flowchart-quiz.png" alt="Match flowchart to algorithms" width="670px" height="450px">
+
++++
+
+### Solution: Match flowchart an Algorithm
+
+<img src="assets/image/flowchart-solution.png" alt="Match flowchart to algorithms Solution" width="670px" height="450px">
+
+---
+
+## Operators 
+
+<table> 
+	<tr>
+		<td>Arithmetic </td>
+		<td class="fragment"> + , - , / , * </td>
+	</tr>
+	<tr>
+		<td>Modulo or Reminder </td>
+		<td class="fragment"> % </td>
+	</tr>
+	<tr>
+		<td>Assignment </td>
+		<td class="fragment"> = </td>
+	</tr>
+	<tr>
+		<td>Comparison</td>
+		<td class="fragment"> <code>> , >= , < , <= , == </code></td>
+	</tr>
+</table>
+
++++
 
 ## What are variables?
+
+A variable associates a name to a value or result of an operation.
+
+Examples
+
+```
+A = 10
+
+x = x + 1
+```
 
 ---
 
 ## How to represent collection of items?
 
+The Array is the simplest way to store a bunch of items in computer memory.
 
----
-## Problem : Check if a number is prime
-
-Let's say we have all prime numbers stored in a collection `primes`
+Example
 
 ```java
 
@@ -51,22 +90,31 @@ Array primes = [2, 3, 5, 7, 11,
 				53, 59, 61, 67, 71, 
 				73, 79, 83, 89, 97]
 ```
+
 +++
 
-@title[Check if a number is prime contd..]
+### How look up values in array?
 
-which can be looked up using : 
+@title[Look up arrays]
+
+Values in array can be looked up using index operator `variableName[index]`
+
+In computer science, index always starts with ***0***
+
 
 ```java
 primes[0] = 2
 primes[1] = 3
 ....
-primes[i] = n
-
-where 0 <= i <= 25
+primes[24] = 97
 
 ```
-Now, Given any number N ( N < 100), tell if the number isPrime by searching the array `primes`
+---
+## Problem : Check if a number is prime
+
+Let's say we have all prime numbers stored in a array `primes`
+
+Now, Given any number N between 1 and 100, tell if the number isPrime by searching the array `primes`
 
 ---
 
@@ -79,3 +127,13 @@ Now, Given any number N ( N < 100), tell if the number isPrime by searching the 
 
 <img src="assets/image/prime-binary-search.png" alt="Binary Search Algorithm" width="650px" height="500px">
 
+---
+
+## Limitations of binary search
+
+- The collection has to be pre-sorted.
+
+## Other Techniques for search
+
+- Indexing like in books or dictionaries |
+- Categorizing and sorting like in library book shelves | 
