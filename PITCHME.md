@@ -27,7 +27,7 @@
 
 +++
 
-### Solution: Match flowchart an Algorithm
+### Solution: Match flowchart to an Algorithm
 
 <img src="assets/image/flowchart-solution.png" alt="Match flowchart to algorithms Solution" width="670px" height="450px">
 
