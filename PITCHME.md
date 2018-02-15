@@ -9,9 +9,9 @@
 ---
 ## Search Examples in Computers
 
-- Amazon Search for Products
-- Netflix Search for movies.
-- Google Search for anything in the internet.
+- Amazon Search for Products. |
+- Netflix Search for movies. |
+- Google Search for anything in the internet. |
 
 ---
 
@@ -19,11 +19,11 @@
 
 > A Flowchart is a type of diagram used to represent algorithms.
 
-<img src="assets/image/flowchart-shapes.png" alt="Flowchart Shapes" width="500px" height="450px">
+<img src="assets/image/flowchart-shapes.png" alt="Flowchart Shapes" width="450px" height="400px">
 
 +++
 
-### Quiz: Match flowchart an Algorithm
+### Quiz: Match flowchart to an Algorithm
 
 <img src="assets/image/flowchart-quiz.png" alt="Match flowchart to algorithms" width="670px" height="450px">
 
@@ -48,7 +48,7 @@
 	</tr>
 	<tr>
 		<td>Assignment </td>
-		<td class="fragment"> == </td>
+		<td class="fragment"> = </td>
 	</tr>
 	<tr>
 		<td>Comparison</td>
@@ -79,7 +79,7 @@ The ***Array*** is the simplest way to store a bunch of items in computer memory
 
 ```java
 
-Example
+Examples:
 
 Array primes = [2, 3, 5, 7, 11,
 				13, 17, 19, 23, 29,
@@ -111,7 +111,7 @@ In computer science, index always starts with ***0***
 
 Let's say we have all prime numbers less than 100 stored in a array `primes`
 
-Given any number N between 1 and 100, tell if the number is a prime by searching the array `primes`
+Given any number N between 1 and 100, tell if the number is a prime by searching the array `primes`.
 
 ---
 
@@ -128,7 +128,7 @@ Given any number N between 1 and 100, tell if the number is a prime by searching
 
 ## Limitations of binary search
 
-- The collection has to be pre-sorted.
+- The collection has to be pre-sorted. |
 
 ---
 
@@ -150,7 +150,7 @@ Can you come up with an algorithm for computer to solve this?
 
 +++
 
-### Guessing Number Game Algorithn.
+### Guessing Number Game Algorithm.
 
 <img src="assets/image/guessing-number-algorithm.png" alt="Guessing number game algorithm" width="650px" height="450px">
 
