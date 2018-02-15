@@ -15,9 +15,9 @@
 
 ## What is Flowchart?
 
-*A Flowchart is a type of diagram used to represent algorithms.*
+*A **Flowchart** is a type of diagram used to represent algorithms.*
 
-<img src="assets/image/flowchart-shapes.png" alt="Flowchart Shapes" width="450px" height="400px">
+<img src="assets/image/flowchart-shapes.png" alt="Flowchart Shapes" width="400px" height="370px">
 
 +++
 
