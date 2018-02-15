@@ -9,15 +9,13 @@
 ---
 ## Search Examples in Computers
 
-- Amazon Search for Products. |
-- Netflix Search for movies. |
-- Google Search for anything in the internet. |
+<img class="fragment" src="assets/image/search-examples.png" alt="Search examples in computers" width="900px" height="450px">
 
 ---
 
 ## What is Flowchart?
 
-> A Flowchart is a type of diagram used to represent algorithms.
+*A Flowchart is a type of diagram used to represent algorithms.*
 
 <img src="assets/image/flowchart-shapes.png" alt="Flowchart Shapes" width="450px" height="400px">
 
