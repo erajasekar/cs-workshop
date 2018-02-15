@@ -1,4 +1,4 @@
-## Algorithms Hands On
+## Introduction to Search Algorithms
 
 ---
 
@@ -18,10 +18,6 @@
 ## What is Flowchart?
 
 > A Flowchart is a type of diagram used to represent algorithms.
-
-+++
-
-### Flowchart Shapes
 
 <img src="assets/image/flowchart-shapes.png" alt="Flowchart Shapes" width="500px" height="450px">
 
@@ -79,7 +75,7 @@ x = x + 1
 
 ## How to represent collection of items?
 
-The Array is the simplest way to store a bunch of items in computer memory.
+The ***Array*** is the simplest way to store a bunch of items in computer memory.
 
 ```java
 
@@ -113,9 +109,9 @@ In computer science, index always starts with ***0***
 ---
 ## Problem : Check if a number is prime
 
-Let's say we have all prime numbers stored in a array `primes`
+Let's say we have all prime numbers less than 100 stored in a array `primes`
 
-Now, Given any number N between 1 and 100, tell if the number ***isPrime*** by searching the array `primes`
+Given any number N between 1 and 100, tell if the number is a prime by searching the array `primes`
 
 ---
 
@@ -140,3 +136,21 @@ Now, Given any number N between 1 and 100, tell if the number ***isPrime*** by s
 
 - Indexing like in books or dictionaries |
 - Categorizing and sorting like in library book shelves | 
+
+---
+
+## Guessing Number Game
+
+1. Think of a number between 1 and 100.
+2. Computer will make a guess and you will answer whether the guess is correct or low and higher than the computer's guess.
+3. Computer will make next guess based on the information and you will respond again with correct or low or high.
+4. Repeat this until computer makes right guess.
+
+Can you come up with an algorithm for computer to solve this?
+
++++
+
+### Guessing Number Game Algorithn.
+
+<img src="assets/image/guessing-number-algorithm.png" alt="Guessing number game algorithm" width="650px" height="450px">
+
