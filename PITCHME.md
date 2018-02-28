@@ -62,7 +62,7 @@ Can you come up with an algorithm for computer to solve this?
 
 ---
 
-## Python program for sequential search
+## Program for sequential search
 
 <iframe height="500px" width="100%" src="https://repl.it/@erajasekar/PrimesSequentialSearch?lite=true" scrolling="no" frameborder="no" allowtransparency="true" allowfullscreen="true" sandbox="allow-forms allow-pointer-lock allow-popups allow-same-origin allow-scripts allow-modals"></iframe>
 
