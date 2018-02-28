@@ -58,7 +58,7 @@ if condition1 :
 elif condition2 :
 	do something when condition2 is true
 else:
-	do something if all conditions are false
+	do something when all conditions are false
 ```
 +++
 
