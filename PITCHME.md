@@ -52,7 +52,7 @@ Can you come up with an algorithm for computer to solve this?
 
 ### Python programm for Guess number game.
 
-https://repl.it/@erajasekar/GuessNumberGame
+<iframe height="400px" width="100%" src="http://repl.it/@erajasekar/GuessNumberGame?lite=true" scrolling="no" frameborder="no" allowtransparency="true" allowfullscreen="true" sandbox="allow-forms allow-pointer-lock allow-popups allow-same-origin allow-scripts allow-modals"></iframe>
 
 +++
 
