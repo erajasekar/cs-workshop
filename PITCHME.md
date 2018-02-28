@@ -52,7 +52,7 @@ Can you come up with an algorithm for computer to solve this?
 
 ### Python programm for Guess number game.
 
-<iframe height="400px" width="100%" src="https://repl.it/@erajasekar/GuessNumberGame?lite=true" scrolling="no" frameborder="no" allowtransparency="true" allowfullscreen="true" sandbox="allow-forms allow-pointer-lock allow-popups allow-same-origin allow-scripts allow-modals"></iframe>
+<iframe height="500px" width="100%" src="https://repl.it/@erajasekar/GuessNumberGame?lite=true" scrolling="no" frameborder="no" allowtransparency="true" allowfullscreen="true" sandbox="allow-forms allow-pointer-lock allow-popups allow-same-origin allow-scripts allow-modals"></iframe>
 
 +++
 
@@ -64,7 +64,7 @@ Can you come up with an algorithm for computer to solve this?
 
 ## Python program for sequential search
 
-https://repl.it/@erajasekar/PrimesSequentialSearch
+<iframe height="500px" width="100%" src="https://repl.it/@erajasekar/PrimesSequentialSearch?lite=true" scrolling="no" frameborder="no" allowtransparency="true" allowfullscreen="true" sandbox="allow-forms allow-pointer-lock allow-popups allow-same-origin allow-scripts allow-modals"></iframe>
 
 +++
 
@@ -76,7 +76,7 @@ https://repl.it/@erajasekar/PrimesSequentialSearch
 
 ## Python Program for Binary Search
 
-https://repl.it/@erajasekar/PrimesBinarySearch
+<iframe height="500px" width="100%" src="https://repl.it/@erajasekar/PrimesBinarySearch?lite=true" scrolling="no" frameborder="no" allowtransparency="true" allowfullscreen="true" sandbox="allow-forms allow-pointer-lock allow-popups allow-same-origin allow-scripts allow-modals"></iframe>
 
 +++
 
