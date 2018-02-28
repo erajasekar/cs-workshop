@@ -50,6 +50,29 @@ Can you come up with an algorithm for computer to solve this?
 
 ---
 
+## Python Conditions
+
+```python
+if condition1 :
+	do something when condition1 is true
+elif condition2 :
+	do something when condition2 is true
+else:
+	do something if all conditions are false
+```
++++
+
+## Python Condition Example
+
+```python
+if signal=="red" :
+	print ("Stop")
+elif signal=="green" :
+	print ("Go")
+```
+
+---
+
 ### Python programm for Guess number game.
 
 <iframe height="500px" width="100%" src="https://repl.it/@erajasekar/GuessNumberGame?lite=true" scrolling="no" frameborder="no" allowtransparency="true" allowfullscreen="true" sandbox="allow-forms allow-pointer-lock allow-popups allow-same-origin allow-scripts allow-modals"></iframe>
