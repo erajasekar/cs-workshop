@@ -31,12 +31,17 @@ Can you come up with an algorithm for computer to solve this?
 ```python
 
 variableName = value 
-
+```
 
 #Examples
 
+
+```python
+
 N=100 # Number 
+
 answer="yes" # String
+
 found=True # Boolean
 ```
 ---
