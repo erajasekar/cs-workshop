@@ -5,7 +5,7 @@
 ## Guessing Number Game
 
 1. Think of a number between 1 and 100.
-2. Computer will make a guess and you will answer whether the guess is correct or small or larger your number.
+2. Computer will make a guess and you will answer whether the guess is correct or small or larger than your number.
 3. Computer will make next guess based on the information and you will respond again with correct or small or large.
 4. Repeat this until computer makes right guess.
 
@@ -29,13 +29,13 @@ Can you come up with an algorithm for computer to solve this?
 ## Python variables
 
 ```python
-variableName = value 
-```
 
-```python
+variableName = value 
+
+
 #Examples
 
-n=100 # Number 
+N=100 # Number 
 answer="yes" # String
 found=True # Boolean
 ```
@@ -58,7 +58,7 @@ found=True # Boolean
 	</tr>
 	<tr>
 		<td>Boolean (bool)</td>
-		<td>True, False, logical condition</td>
+		<td>True, False, Result of logical condition</td>
 	</tr>
 </table>
 
@@ -135,6 +135,7 @@ while True:
 for item in list_of_times:
 	do something with item
 ```
+Examples
 
 ```python
 numbers=[1,2,3,4,5]
