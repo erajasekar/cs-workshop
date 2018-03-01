@@ -98,7 +98,7 @@ while condition:
 	repeat something
 ```
 
-The loop will end either if condition becomes false or if there is a `break` statement.
+The loop will end either if condition becomes false or if there is a ***`break`*** statement.
 
 +++
 
