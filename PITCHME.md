@@ -26,26 +26,6 @@ Can you come up with an algorithm for computer to solve this?
 - Python is a very good choice for beginners.
 
 ---
-## Python variables
-
-```python
-
-variableName = value 
-```
-
-#Examples
-
-
-```python
-
-N=100 # Number 
-
-answer="yes" # String
-
-found=True # Boolean
-```
----
-
 ## Basic Data Types
 
 <table>
@@ -67,6 +47,25 @@ found=True # Boolean
 	</tr>
 </table>
 
+---
+## Python variables
+
+```python
+
+variableName = value 
+```
+
+#Examples
+
+
+```python
+
+N = 100 # Number 
+
+answer = "yes" # String
+
+found = True # Boolean
+```
 ---
 
 ## Python Conditions
