@@ -60,11 +60,11 @@ Examples
 
 ```python
 
-N = 100 # Number 
+N = 100 # Type ? 
 
-answer = "yes" # String
+answer = "yes" # Type ?
 
-found = True # Boolean
+found = True # Type ?
 ```
 ---
 
@@ -121,7 +121,32 @@ while True:
 ```
 ---
 
-### Python programm for Guess number game.
+## Input and Output
+
+```python
+
+print ("Message you want to say to users")
+
+variable=input("Read something from users")
+```
+
++++
+
+## Input and Output Example
+
+```python
+
+name = input("What is your name? ")
+print ("Your name is " + name)
+
+age = int(input("What is your age? "))
+print ("Your age is " + str(age))
+
+
+```
+
+---
+### Program for Guessing number game.
 
 <iframe height="500px" width="100%" src="https://repl.it/@erajasekar/GuessNumberGame?lite=true" scrolling="no" frameborder="no" allowtransparency="true" allowfullscreen="true" sandbox="allow-forms allow-pointer-lock allow-popups allow-same-origin allow-scripts allow-modals"></iframe>
 
