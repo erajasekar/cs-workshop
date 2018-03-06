@@ -199,6 +199,48 @@ for n in numbers:
 
 ---
 
+## Exercise Reverse Guessing Number Game
+
+<iframe height="500px" width="100%" src="https://repl.it/@erajasekar/GuessingNumberGame2?lite=true" scrolling="no" frameborder="no" allowtransparency="true" allowfullscreen="true" sandbox="allow-forms allow-pointer-lock allow-popups allow-same-origin allow-scripts allow-modals"></iframe>
+
+---
+
+## Searching for Max value
+
+Let's say we have list of numbers:
+
+```python
+
+numbers = [10,50,20,30,100,60]
+
+```
+
+You need to find the Maximum value in the list which is 100 in this case.
+
++++
+
+### Solving using Best score analogy
+
+* Let's say you are playing a game many times.
+* You will get a score at end of each game.
+* You will to calculate the best score you have scored so far.
+* You can use same approach to search for Max.
+
++++
+
+### Searching for Max solution
+
+<iframe height="500px" width="100%" src="https://repl.it/@erajasekar/SearchMax?lite=true" scrolling="no" frameborder="no" allowtransparency="true" allowfullscreen="true" sandbox="allow-forms allow-pointer-lock allow-popups allow-same-origin allow-scripts allow-modals"></iframe>
+
++++
+
+### Searching for Max visualization
+
+
+<iframe width="2000" height="550"  frameborder="0" src="https://pythontutor.com/iframe-embed.html#code=numbers%20%3D%20%5B10,50,20,30,100,60%5D%0A%0AmaxValue%20%3D%200%0A%0Afor%20n%20in%20numbers%3A%0A%20%20%20%20if%20n%20%3E%20maxValue%3A%0A%20%20%20%20%20%20%20%20maxValue%20%3D%20n%0A%0Aprint%28%22Max%20is%20%3A%20%22%20%2B%20str%28maxValue%29%29%0Aprint%28%22Max%20using%20function%20%3A%20%22%20%2B%20str%28max%28numbers%29%29%29%0A&codeDivHeight=400&codeDivWidth=350&cumulative=false&curInstr=20&heapPrimitives=false&origin=opt-frontend.js&py=3&rawInputLstJSON=%5B%5D&textReferences=false"> </iframe>
+
+---
+
 ### Resources
 
 * [Python-Kids-Playful-Introduction-Programming](http://www.amazon.com/Python-Kids-Playful-Introduction-Programming/dp/1593274076)
