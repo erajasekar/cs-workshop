@@ -199,9 +199,9 @@ for n in numbers:
 
 ---
 
-## Exercise Reverse Guessing Number Game
+### Exercise Reverse Guessing Number Game
 
-<iframe height="500px" width="100%" src="https://repl.it/@erajasekar/GuessingNumberGame2?lite=true" scrolling="no" frameborder="no" allowtransparency="true" allowfullscreen="true" sandbox="allow-forms allow-pointer-lock allow-popups allow-same-origin allow-scripts allow-modals"></iframe>
+<iframe height="450px" width="100%" src="https://repl.it/@erajasekar/GuessingNumberGame2?lite=true" scrolling="no" frameborder="no" allowtransparency="true" allowfullscreen="true" sandbox="allow-forms allow-pointer-lock allow-popups allow-same-origin allow-scripts allow-modals"></iframe>
 
 ---
 
@@ -213,9 +213,10 @@ Let's say we have list of numbers:
 
 numbers = [10,50,20,30,100,60]
 
+
 ```
 
-You need to find the Maximum value in the list which is 100 in this case.
+You need to find the Maximum value in the list which is 100 in this example.
 
 +++
 
@@ -223,7 +224,7 @@ You need to find the Maximum value in the list which is 100 in this case.
 
 * Let's say you are playing a game many times.
 * You will get a score at end of each game.
-* You will to calculate the best score you have scored so far.
+* You will to calculate the best score you have got so far.
 * You can use same approach to search for Max.
 
 +++
