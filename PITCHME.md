@@ -428,11 +428,18 @@ According to Steve Jobs -- The greatest innovations come from the intersection o
 
 * You need to continously learn new things and keep up ever changing technology.
 
++++
+
+### Exercise : Say True or False
+
+* A Software engineer can stop learning after college. <span class="fragment"> - False</span>
+* Learning Arts will help in Software engineering job. <span class="fragment"> - True</span>
+
 ---
 
 ## What's fascinating about Computers today?
 
-What if we can teach Computers to learn by itself.
+<img src="assets/image/FourthIndustrialRevolution.png" alt="Fourth Industrial Revolution" width="700px" height="400px">
 
 We are heading towards making machines to learn and creating artificial intelligent systems.
 
