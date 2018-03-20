@@ -360,21 +360,21 @@ With the internet, you can literally work from any where in the world.
 
 +++
 
-### Exercise which one of these a Software Engineer doesn't do?
+#### Exercise which one of these a Software Engineer doesn't do?
 
 * Makes people's life better.
 * Solves complex problems.
-* Sells computers to people.
-* Works together with team of people.
+* Sells computers to customers.
+* Works together in a team.
 
 +++
 
-### Solution: which one of these a Software Engineer doesn't do?
+#### Solution: which one of these a Software Engineer doesn't do?
 
 * Makes people's life better.
 * Solves complex problems.
-* ~Sells computers to people.~
-* Works together with team of people.
+* ~~Sells computers to customers.~~
+* Works together in a team.
 
 
 ---
@@ -398,7 +398,7 @@ You are passionate about solving complex problems
 
 ### Like Experimenting and Research
 
-* You like conduction experiments, you will try something, if it doesn't work scratch that off and try different approach.
+* You like doing experiments, you will try something, if it doesn't work scratch that off and try different approach.
 * You also like doing research, you search the web, read the documentation, refer the books to come up with a solution.
 
 +++
@@ -432,14 +432,14 @@ According to Steve Jobs -- The greatest innovations come from the intersection o
 
 ### Exercise : Say True or False
 
-* A Software engineer can stop learning after college. <span class="fragment"> - False</span>
-* Learning Arts will help in Software engineering job. <span class="fragment"> - True</span>
+A Software engineer can stop learning after college. <span class="fragment"> - False</span>
+Learning Arts will help in Software engineering job. <span class="fragment"> - True</span>
 
 ---
 
-## What's fascinating about Computers today?
+### What's fascinating about Computers today?
 
-<img src="assets/image/FourthIndustrialRevolution.png" alt="Fourth Industrial Revolution" width="700px" height="400px">
+<img src="assets/image/FourthIndustrialRevolution.png" alt="Fourth Industrial Revolution" width="650" height="400px">
 
 We are heading towards making machines to learn and creating artificial intelligent systems.
 
