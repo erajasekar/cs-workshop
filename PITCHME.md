@@ -358,6 +358,25 @@ As per US-BLS projections, computing will be the safest STEM career options for 
 
 With the internet, you can literally work from any where in the world.
 
++++
+
+### Exercise which one of these a Software Engineer doesn't do?
+
+* Makes people's life better.
+* Solves complex problems.
+* Sells computers to people.
+* Works together with team of people.
+
++++
+
+### Solution: which one of these a Software Engineer doesn't do?
+
+* Makes people's life better.
+* Solves complex problems.
+* ~Sells computers to people.~
+* Works together with team of people.
+
+
 ---
 ## What traits should I have to become Software engineer?
 
