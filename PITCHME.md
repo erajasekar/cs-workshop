@@ -460,7 +460,7 @@ We are heading towards making machines to learn and creating artificial intellig
 
 ### Difference between Traditional Programming and Machine Learning
 
-<img src="assets/image/TraditionalVsMachineLearning.png" alt="Traditional Vs Machine Learning" width="500px" height="500px">
+<img src="assets/image/TraditionalVsMachineLearning.png" alt="Traditional Vs Machine Learning" width="500px" height="450px">
 
 +++
 
