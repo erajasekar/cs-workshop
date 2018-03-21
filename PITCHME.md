@@ -458,6 +458,12 @@ We are heading towards making machines to learn and creating artificial intellig
 
 +++
 
+### Difference between Traditional Programming and Machine Learning
+
+<img src="assets/image/TraditionalVsMachineLearning.png" alt="Traditional Vs Machine Learning" width="600px" height="600px">
+
++++
+
 ### Quiz: Say True or False
 
 Can Computer learn human skills? <span class="fragment"> - True </span>
