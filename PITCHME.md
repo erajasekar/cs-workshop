@@ -454,14 +454,13 @@ We are heading towards making machines to learn and creating artificial intellig
 
 * With machine learning, computers write their own programs, so we don’t have to.
 
-* We can think of machine learning as inverse of programming just like Square root is inverse of Square.
-
-
 +++
 
-### Difference between Traditional Programming and Machine Learning
+#### Difference between Traditional Programming and Machine Learning
 
-<img src="assets/image/TraditionalVsMachineLearning.png" alt="Traditional Vs Machine Learning" width="500px" height="450px">
+<img src="assets/image/TraditionalVsMachineLearning.png" alt="Traditional Vs Machine Learning" width="400px" height="350px">
+
+We can think of machine learning as inverse of programming just like Square root is inverse of Square.
 
 +++
 
