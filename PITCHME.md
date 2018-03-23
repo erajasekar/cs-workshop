@@ -360,7 +360,7 @@ With the internet, you can literally work from any where in the world.
 
 +++
 
-#### Exercise which one of these a Software Engineer doesn't do?
+#### Quiz:  which one of these a Software Engineer doesn't do?
 
 * Makes people's life better.
 * Solves complex problems.
@@ -369,7 +369,7 @@ With the internet, you can literally work from any where in the world.
 
 +++
 
-#### Solution: which one of these a Software Engineer doesn't do?
+#### Answer: which one of these a Software Engineer doesn't do?
 
 * Makes people's life better.
 * Solves complex problems.
@@ -430,7 +430,7 @@ According to Steve Jobs -- The greatest innovations come from the intersection o
 
 +++
 
-### Exercise : Say True or False
+### Quiz : Say True or False
 
 A Software engineer can stop learning after college. <span class="fragment"> - False</span>
 
@@ -452,9 +452,10 @@ We are heading towards making machines to learn and creating artificial intellig
 
 * It figures out Algorithm by analysing large set of sample data.
 
+* With machine learning, computers write their own programs, so we don’t have to.
+
 * We can think of machine learning as inverse of programming just like Square root is inverse of Square.
 
-* With machine learning, computers write their own programs, so we don’t have to.
 
 +++
 
