@@ -1,12 +1,10 @@
-## What you need to know about Computers and Programming Job?
+## What you need to know about Computer Science and Software Engineering Job?
 
 ---
 
 ## Introduction
 
 This is Rajasekar Elango, Software Engineer at Salesforce.com
-
-Note: I am Harshitha's dad. Harthitha studies in Ms. Diane's Lower elementary class.
 
 +++
 
