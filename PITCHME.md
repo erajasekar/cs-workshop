@@ -440,7 +440,7 @@ Learning Arts will help in Software engineering job. <span class="fragment"> - T
 
 ### What's fascinating about Computers today?
 
-<img src="assets/image/FourthIndustrialRevolution.png" alt="Fourth Industrial Revolution" width="620" height="400px">
+<img src="assets/image/Industry_4.0.png" alt="Fourth Industrial Revolution" width="620" height="400px">
 
 We are heading towards making machines to learn and creating artificial intelligent systems.
 
