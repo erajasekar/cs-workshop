@@ -1,4 +1,4 @@
-## What you need to know about Computer Science and Software Engineering Job?
+## Basics of Computer Science and Software Engineering Job?
 
 ---
 
@@ -56,7 +56,7 @@ Note: Discuss about conductors and insulators.
 
 Just like billions of neurons fire in our Human brain based on visual, auditory or sensory signal.
 
-<img src="assets/image/brain-transistor.png" alt="Transistors inside brain" width="500px" height="400px">
+<img src="assets/image/brain-transistor.jpg" alt="Transistors inside brain" width="500px" height="400px">
 
 ---
 
