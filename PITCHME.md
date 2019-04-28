@@ -6,7 +6,7 @@
 
 This is Rajasekar Elango, Software Engineer at Salesforce.com
 
-+++
+---
 
 @title[About Audience]
 
@@ -22,12 +22,12 @@ Note: I encourage you to ask question whenever you have. Please don't hesitage.
 <p class="fragment">Humans are **smart**, but *slow*. </p>
 <p class="fragment">Computers can **tirelessly** do repetitive tasks whereas humans will get *exhausted* . </p>
 
-+++
+---
 @title[Binary Introduction]
 
 Infact, the hardware inside the computer doesn't know anything other than 0’s and 1’s.
 
-+++
+---
 @title[Everything is stored as binary]
 
 All the videos, music and textual information you see in computers are stored as just **0’s** and **1’s.**
