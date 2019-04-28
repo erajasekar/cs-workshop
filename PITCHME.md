@@ -51,7 +51,7 @@ Note: Discuss about conductors and insulators.
 
 > Computers are made of billions of tiny ***transistors*** which can be programmed to flip states between 0 and 1 using electrical signals.
 
-+++
+---
 @title[Human brain and Computers]
 
 Just like billions of neurons fire in our Human brain based on visual, auditory or sensory signal.
@@ -68,7 +68,7 @@ Just like billions of neurons fire in our Human brain based on visual, auditory 
 
 Note: For eg. We don't need a separate device to play each game. We can play several games in a single computer or a phone.
 
-+++
+---
 
 ## Quiz: Say True or False
 
@@ -82,7 +82,7 @@ Note: For eg. We don't need a separate device to play each game. We can play sev
 
 > `Computer is a electronic machine that can be programmed to do zillions of different tasks.`
 
-+++
+---
 @title[Components of A Computer CPU]
 ### Components of A Computer CPU
 
@@ -90,14 +90,14 @@ Note: For eg. We don't need a separate device to play each game. We can play sev
 
 Can you tell some Input and Output devices?
 
-+++
+---
 
 ### Components of A Computer with Input and Output
 
 <img src="assets/image/computer-components2.png" alt="Components of Computer" width="500px" height="400px">
 
 Can same device be used for both Input and Output?
-+++
+---
 
 ### Components of A Computer
 
@@ -105,7 +105,7 @@ Can same device be used for both Input and Output?
 
 That's why touch screen devices are very easy use.
 
-+++
+---
 
 #### How many of you know what does GB or MB mean in phone or computers?
 @title[What does GB Mean?]
@@ -135,7 +135,7 @@ That's why touch screen devices are very easy use.
 	</tr>
 </table>
 
-+++
+---
 
 ## Quiz: Say True or False
 
@@ -145,12 +145,12 @@ Computers can do everything by itself<span class="fragment"> - False. </span>
 
 ## How do you tell Computers to do something?
 
-+++
+---
 @title[What are Algorithms?]
 
 We need to provide a sequence of instructions telling a computer to what to do which is called as ***Algorithms***.
 
-+++
+---
 
 ### Algorithm example
 
@@ -158,7 +158,7 @@ Algorithm to tell if temperature is Below or Above the Freezing Point
 
 <img src="assets/image/algorithm-example.png" alt="Algorithm to tell temperature is freezing point" width="400px" height="400px">
 
-+++
+---
 
 ### How transistors execute Algorithms?
 
@@ -166,7 +166,7 @@ Transistors are combined to create ***logic gates*** that can perform logical op
 
 Every algorithm, no matter how complex, can be reduced to just these three operations: AND, OR, and NOT.
 
-+++
+---
 
 ### Algorithm logic gates example
 
@@ -174,7 +174,7 @@ if a fever can be caused by influenza or malaria, and you should take Tylenol fo
 
 <img src="assets/image/algorithm-logic.png" alt="Algorithm that uses transistor logical operations" width="350px" height="350px">
 
-+++
+---
 
 ### Algorithms can solve complex problems
 
@@ -184,7 +184,7 @@ Just like simple mathematical operations are combined to produce complex mathema
 
 Algorithms fly the airplanes, forecast weather, play games, tell us driving directions and so on.
 
-+++
+---
 ### Quiz: Match Profession to Work
 
 <table>
@@ -202,7 +202,7 @@ Algorithms fly the airplanes, forecast weather, play games, tell us driving dire
 	</tr>
 </table>
 
-+++
+---
 
 ### Answers: Match Profession to Work
 <table>
@@ -234,20 +234,20 @@ A Programmer creates algorithms and codes them up in human friendly language lik
 
 > Software is collection of programs that are written in language humans can understand and then they are converted into binary that computers can execute them.
 
-+++
+---
 
 ## Software diagram
 
 <img src="assets/image/software-hardware.png" alt="Software" width="500px" height="450px">
 
-+++
+---
 
 ## Software run every device
 Softwares run computers, smart phones, XBox, Billing machines.
 
 <img src="assets/image/software.jpg" alt="Software" width="500px" height="380px">
 
-+++
+---
 
 ## Quiz: Say True or False
 
@@ -259,7 +259,7 @@ Without Software the hardware devices would be idle. <span class="fragment"> - T
 
 <img src="assets/image/software-eating-world.png" alt="Software Eating World" width="460px" height="400px">
 
-+++
+---
 
 ### Every Industry is revolutioned by Software
 
@@ -292,7 +292,7 @@ Without Software the hardware devices would be idle. <span class="fragment"> - T
 
 Note: The best new movie production company in many decades, Pixar, was a software company. Disney — had to buy Pixar, a software company, to remain relevant in animated movies.
 
-+++
+---
 
 ## Quiz: Say True or False
 
@@ -302,7 +302,7 @@ If you learn programming, you can apply the skills in any domain you choose.<spa
 
 ## Why being a Software developer is Great?
 
-+++
+---
 
 ### Drives creativity and innovation
 
@@ -310,13 +310,13 @@ If you learn programming, you can apply the skills in any domain you choose.<spa
 
 * Programming is fundamentally about creating  solutions to problems. 
 
-+++
+---
 
 ### Make people's life better
 
 You will solve problems to make people's life better.
 
-+++
+---
 
 ### Impact millions of people quickly
 
@@ -324,7 +324,7 @@ You will solve problems to make people's life better.
 
 Telephone took 75 years, Internet took 4 years however Angry Birds took only 35 days!! to reach 50 Million users.
 
-+++
+---
 
 ### Colloborative 
 
@@ -332,7 +332,7 @@ Software engineering is a team sport and you work together to build amazing thin
 
 <img src="assets/image/teamwork.jpg" alt="teamwork" width="700px" height="400px">
 
-+++
+---
 
 ### Future Proof
 
@@ -340,7 +340,7 @@ Software engineering is a team sport and you work together to build amazing thin
 
 As per US-BLS projections, computing will be the safest STEM career options for the foreseeable future.
 
-+++
+---
 
 ### Pays well
 
@@ -350,13 +350,13 @@ As per US-BLS projections, computing will be the safest STEM career options for 
 
 * All you need is your time and a computer.
 
-+++
+---
 
 ### Work from anywhere.
 
 With the internet, you can literally work from any where in the world.
 
-+++
+---
 
 #### Quiz:  which one of these a Software Engineer doesn't do?
 
@@ -365,7 +365,7 @@ With the internet, you can literally work from any where in the world.
 * Sells computers to customers.
 * Works together in a team.
 
-+++
+---
 
 #### Answer: which one of these a Software Engineer doesn't do?
 
@@ -378,13 +378,13 @@ With the internet, you can literally work from any where in the world.
 ---
 ## What traits should I have to become Software engineer?
 
-+++
+---
 ### Love making things for other people to use
 
 * At end of the day, you have created something that didn't exist that morning.
 * You feel happy when people use the product you created.
 
-+++
+---
 
 ### Enjoy solving puzzles
 
@@ -392,14 +392,14 @@ You are passionate about solving complex problems
 
 <img src="assets/image/problem-solved.jpg" alt="problem solved" width="550px" height="400px">
 
-+++
+---
 
 ### Like Experimenting and Research
 
 * You like doing experiments, you will try something, if it doesn't work scratch that off and try different approach.
 * You also like doing research, you search the web, read the documentation, refer the books to come up with a solution.
 
-+++
+---
 
 ### You want to make things easier in life.
 
@@ -407,26 +407,26 @@ Microsoft's founder Bill Gates said he would always  *"hire a lazy person to do 
 
 Because **A lazy person will find an easy way to do it**.
 
-+++
+---
 
 ### You have interest in both Arts and Engineering.
 
 * Software engineering utilizes right mix of both Artistic and Engineering skills.
 * Writing a program is an art like writing a poem at the same time it needs applying logical skills to solve the problem.
 
-+++
+---
 @title[Intersection of Arts and Technology]
 According to Steve Jobs -- The greatest innovations come from the intersection of technology and arts.
 
 <img src="assets/image/Apples_DNA.png" alt="Apples_DNA" width="500px" height="400px">
 
-+++
+---
 
 ### You are a Curious learner
 
 * You need to continously learn new things and keep up ever changing technology.
 
-+++
+---
 
 ### Quiz : Say True or False
 
@@ -442,7 +442,7 @@ Learning Arts will help in Software engineering job. <span class="fragment"> - T
 
 We are heading towards making machines to learn and creating artificial intelligent systems.
 
-+++
+---
 
 ### What is Machine learning?
 
@@ -452,7 +452,7 @@ We are heading towards making machines to learn and creating artificial intellig
 
 * With machine learning, computers write their own programs, so we don’t have to.
 
-+++
+---
 
 #### Difference between Traditional Programming and Machine Learning
 
@@ -460,13 +460,13 @@ We are heading towards making machines to learn and creating artificial intellig
 
 We can think of machine learning as inverse of programming just like Square root is inverse of Square.
 
-+++
+---
 
 ### Quiz: Say True or False
 
 Can Computer learn human skills? <span class="fragment"> - True </span>
 
-+++
+---
 
 ### Applications of Machine learning
 
@@ -474,14 +474,14 @@ Can Computer learn human skills? <span class="fragment"> - True </span>
 
 - Computers have learned to recognize our face, our voice, handwriting , etc.
 
-+++
+---
 ### Robots are becoming our assistants
 
 iRobot vaccum can find it's way through your home and clean.
 
 <img src="assets/image/irobot.jpg" alt="iRobot" width="700px" height="350px">
 
-+++
+---
 
 @title[Robots can answer our questions]
 
@@ -489,7 +489,7 @@ Siri , Alexa, Google Now are able to answer our questions just like humans.
 
 <img src="assets/image/alexa-siri.jpg" alt="Siri , Alexa, Google Now" width="800px" height="400px">
 
-+++
+---
 
 ### Computers beat world Chess champion.
 
@@ -497,7 +497,7 @@ IBM's Chess computer Deep Blue beat world Chess Champion Garry Kasparov in 1997.
 
 <img src="assets/image/deepblue.jpg" alt="AlphaGo DeepMind" width="600px" height="350px">
 
-+++ 
+--- 
 
 ### AlphaGo beats world Go champion Lee Sedol 
 
@@ -505,14 +505,14 @@ Go is very complex game compared to Chess, it won't be possible without machine 
 
 <img src="assets/image/alphago.png" alt="AlphaGo DeepMind" width="600px" height="300px">
 
-+++
+---
 
 ### The supercomputer IBM Watson
 
 Watson won the first prize against former winners Brad Rutter and Ken Jennings in Jeopardy TV contest.
 <img src="assets/image/watson.jpg" alt="IBM watson" width="500px" height="350px">
 
-+++
+---
 @title[Power of IBM Watson]
 
 <img src="assets/image/watson-logo.png" alt="IBM watson logo" width="350px" height="150px">
@@ -521,7 +521,7 @@ Watson won the first prize against former winners Brad Rutter and Ken Jennings i
 * Watson has got all the knowledge of encyclopedias, dictionaries, newswire articles, and literary works.
 * Watson can process about million books, per second.
 
-+++
+---
 
 ### How will future look like?
 
@@ -543,14 +543,14 @@ Watson won the first prize against former winners Brad Rutter and Ken Jennings i
 * http://lightbot.com/ — This mobile game starts really easy and adds more and more complex concepts over time eventually getting quite challenging. 
 * https://www.codingame.com/start — is aimed at more experienced and older kids, teaching more complex techniques
 
-+++
+---
 @title[Learn programming resources]
 
 * https://www.allcancode.com/home — Uses visual programming language to learn how to code and build amazing apps
 * http://scratch.mit.edu/ You can program your own interactive stories, games, and animations.
 * [Lego mind storms](http://www.lego.com/en-us/mindstorms/?domainredir=mindstorms.lego.com) -- build programmable robots based on Lego building blocks.
 
-+++
+---
 @title[Learn programming resources continued]
 
 * https://www.khanacademy.org/  — Build apps using Javascript guided by video tutorials.
